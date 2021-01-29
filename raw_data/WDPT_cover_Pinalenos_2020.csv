@@ -1,0 +1,1453 @@
+location_ID,plot_ID,burn_severity,x.m,y.m,WD_0cm_1.sec,WD_0cm_2.sec,WD_0cm_3.sec,WD_1cm_1.sec,WD_1cm_2.sec,WD_1cm_3.sec,WD_2cm_1.sec,WD_2cm_2.sec,WD_2cm_3.sec,WD_3cm_1.sec,WD_3cm_2.sec,WD_3cm_3.sec,WD_4cm.hydrophobic,WD_5cm.hydrophobic,litter_depth.cm,theta_i.percent,LF1,LF2,LF3,ground_cover,overstory1,overstory2,notes
+1_0_0,1,high,0,0,3,3,3,3,4,3,9,3,3,3,9,3,FALSE,FALSE,0,2,,,,L,no live,,NA
+1_0_1,1,high,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,,,,R,no live,,NA
+1_0_2,1,high,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+1_0_3,1,high,0,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,3.1,F,,,B,no live,,NA
+1_0_4,1,high,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.6,,,,B,no live,,NA
+1_0_5,1,high,0,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,4.7,G,L,,B,no live,,NA
+1_0_6,1,high,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+1_0_7,1,high,0,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,L,,,B,no live,,too rocky for soil moisture
+1_0_8,1,high,0,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.1,G,,,L,no live,,NA
+1_0_9,1,high,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,L,,,L,no live,,NA
+1_0_10,1,high,0,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.3,F,L,,L,no live,,NA
+1_1_0,1,high,1,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1,,,,B,no live,,NA
+1_1_1,1,high,1,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,,,,B,no live,,NA
+1_1_2,1,high,1,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.8,F,,,L,no live,,NA
+1_1_3,1,high,1,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.8,L,,,L,no live,,NA
+1_1_4,1,high,1,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,B,no live,,NA
+1_1_5,1,high,1,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.6,F,,,L,no live,,NA
+1_1_6,1,high,1,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,G,,,B,no live,,too rocky for soil moisture
+1_1_7,1,high,1,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.8,F,,,L,no live,,NA
+1_1_8,1,high,1,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.8,G,,,L,no live,,NA
+1_1_9,1,high,1,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+1_1_10,1,high,1,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,2,,,,L,no live,,NA
+1_2_0,1,high,2,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,G,,,B,no live,,NA
+1_2_1,1,high,2,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,0.9,F,,,R,no live,,NA
+1_2_2,1,high,2,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,1,F,,,B,no live,,NA
+1_2_3,1,high,2,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,1.8,,,,L,no live,,loose litter
+1_2_4,1,high,2,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.6,F,WD,,B,no live,,NA
+1_2_5,1,high,2,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,B,no live,,NA
+1_2_6,1,high,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+1_2_7,1,high,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,0.8,F,L,,L,no live,,NA
+1_2_8,1,high,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,R,no live,,NA
+1_2_9,1,high,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,L,,,B,no live,,loose litter
+1_2_10,1,high,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.7,SD,,,L,no live,,NA
+1_3_0,1,high,3,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+1_3_1,1,high,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,F,,,R,no live,,too rocky for soil moisture
+1_3_2,1,high,3,2,12,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.7,,,,B,no live,,NA
+1_3_3,1,high,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.5,1,F,,,L,no live,,NA
+1_3_4,1,high,3,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,1.2,L,,,L,no live,,NA
+1_3_5,1,high,3,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,1.5,,,,L,no live,,loose litter
+1_3_6,1,high,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,no live,,too rocky for soil moisture
+1_3_7,1,high,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,1.7,F,,,L,no live,,NA
+1_3_8,1,high,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,1.2,L,,,L,no live,,NA
+1_3_9,1,high,3,9,3,3,7,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.8,G,,,R,no live,,NA
+1_3_10,1,high,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,3.5,F,,,B,no live,,NA
+1_4_0,1,high,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,WD,,,B,no live,,NA
+1_4_1,1,high,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.5,F,,,B,no live,,NA
+1_4_2,1,high,4,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+1_4_3,1,high,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+1_4_4,1,high,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,F,,,WD,no live,,NA
+1_4_5,1,high,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.1,,,,B,no live,,NA
+1_4_6,1,high,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,F,,,B,no live,,NA
+1_4_7,1,high,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.2,,,,B,no live,,NA
+1_4_8,1,high,4,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+1_4_9,1,high,4,9,3,3,3,59,57,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.3,F,,,L,no live,,NA
+1_4_10,1,high,4,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,1.9,F,,,L,no live,,NA
+1_5_0,1,high,5,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.4,WD,,,B,no live,,NA
+1_5_1,1,high,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+1_5_2,1,high,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.8,,,,R,no live,,NA
+1_5_3,1,high,5,3,3,3,3,3,3,3,3,3,3,59,60,60,FALSE,FALSE,0,0.6,F,,,B,no live,,NA
+1_5_4,1,high,5,4,3,3,3,37,110,133,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,B,no live,,NA
+1_5_5,1,high,5,5,3,3,3,3,3,3,3,3,3,5,5,5,FALSE,FALSE,0,2.4,L,,,B,no live,,NA
+1_5_6,1,high,5,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+1_5_7,1,high,5,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.2,F,,,B,no live,,NA
+1_5_8,1,high,5,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,3.3,F,,,L,no live,,NA
+1_5_9,1,high,5,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,F,,,B,no live,,NA
+1_5_10,1,high,5,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,B,no live,,NA
+1_6_0,1,high,6,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+1_6_1,1,high,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.5,,,,L,no live,,NA
+1_6_2,1,high,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.4,F,,,L,no live,,NA
+1_6_3,1,high,6,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,WD,F,,B,no live,,too rocky for soil moisture
+1_6_4,1,high,6,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,0.8,F,,,B,no live,,NA
+1_6_5,1,high,6,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,3.4,F,,,B,no live,,NA
+1_6_6,1,high,6,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,F,,,B,no live,,NA
+1_6_7,1,high,6,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.8,G,,,B,no live,,NA
+1_6_8,1,high,6,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,NA,F,,,L,no live,,too rocky for soil moisture
+1_6_9,1,high,6,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+1_6_10,1,high,6,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,B,no live,,NA
+1_7_0,1,high,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+1_7_1,1,high,7,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+1_7_2,1,high,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+1_7_3,1,high,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,WD,no live,,NA
+1_7_4,1,high,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,SD,,,SD,no live,,dead tree unable to sample soil moisture
+1_7_5,1,high,7,5,3,3,3,3,3,3,3,3,3,5,10,10,FALSE,FALSE,0,1,F,,,B,no live,,NA
+1_7_6,1,high,7,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+1_7_7,1,high,7,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,L,,,B,no live,,NA
+1_7_8,1,high,7,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,WD,,,B,no live,,too rocky for soil moisture
+1_7_9,1,high,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.4,F,,,L,no live,,NA
+1_7_10,1,high,7,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,G,,,B,no live,,NA
+1_8_0,1,high,8,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,WD,,,B,no live,,NA
+1_8_1,1,high,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,no live,,too rocky for soil moisture
+1_8_2,1,high,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,B,no live,,NA
+1_8_3,1,high,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.2,,,,B,no live,,NA
+1_8_4,1,high,8,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,B,no live,,NA
+1_8_5,1,high,8,5,3,3,3,15,35,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,B,no live,,NA
+1_8_6,1,high,8,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.8,0.7,,,,L,no live,,NA
+1_8_7,1,high,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,L,,,B,no live,,too rocky for soil moisture
+1_8_8,1,high,8,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.2,F,,,B,no live,,NA
+1_8_9,1,high,8,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,no live,,too rocky for soil moisture
+1_8_10,1,high,8,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.8,F,,,B,no live,,NA
+1_9_0,1,high,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.8,,,,B,no live,,NA
+1_9_1,1,high,9,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,,,,B,no live,,NA
+1_9_2,1,high,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,B,no live,,NA
+1_9_3,1,high,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+1_9_4,1,high,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.4,F,,,R,no live,,NA
+1_9_5,1,high,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+1_9_6,1,high,9,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,WD,no live,,NA
+1_9_7,1,high,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,B,no live,,NA
+1_9_8,1,high,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.4,F,,,B,no live,,NA
+1_9_9,1,high,9,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+1_9_10,1,high,9,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+1_10_0,1,high,10,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.2,F,,,B,no live,,too rocky for soil moisture
+1_10_1,1,high,10,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,R,no live,,NA
+1_10_2,1,high,10,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,F,,,B,no live,,NA
+1_10_3,1,high,10,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.3,,,,B,no live,,NA
+1_10_4,1,high,10,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.2,L,,,B,no live,,NA
+1_10_5,1,high,10,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,,,,R,no live,,NA
+1_10_6,1,high,10,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.4,F,,,B,no live,,NA
+1_10_7,1,high,10,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+1_10_8,1,high,10,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,SD,,,SD,no live,,woody dead
+1_10_9,1,high,10,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+1_10_10,1,high,10,10,3,3,3,120,140,140,150,300,300,20,20,20,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_0_0,2,high,0,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_0_1,2,high,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_0_2,2,high,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,1.8,,,,L,no live,,NA
+2_0_3,2,high,0,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_0_4,2,high,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,F,,,R,no live,,NA
+2_0_5,2,high,0,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_0_6,2,high,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,no live,,too rocky for soil moisture
+2_0_7,2,high,0,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,no live,,too rocky for soil moisture
+2_0_8,2,high,0,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,NA,F,,,L,no live,,too rocky for soil moisture
+2_0_9,2,high,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,0.7,L,,,L,no live,,NA
+2_0_10,2,high,0,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_1_0,2,high,1,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_1_1,2,high,1,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+2_1_2,2,high,1,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.2,,,,L,no live,,NA
+2_1_3,2,high,1,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,0.7,,,,L,no live,,NA
+2_1_4,2,high,1,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,L,,B,no live,,too rocky for soil moisture
+2_1_5,2,high,1,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.3,NA,,,,L,no live,,litter is loose packed sticks/too rocky for soil moisture
+2_1_6,2,high,1,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,F,,,F,no live,,NA
+2_1_7,2,high,1,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.9,NA,,,,L,no live,,too rocky for soil moisture
+2_1_8,2,high,1,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,B,no live,,NA
+2_1_9,2,high,1,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,no live,,too rocky for soil moisture
+2_1_10,2,high,1,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,,,,R,no live,,NA
+2_2_0,2,high,2,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+2_2_1,2,high,2,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_2_2,2,high,2,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,B,no live,,NA
+2_2_3,2,high,2,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_2_4,2,high,2,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too rocky for soil moisture
+2_2_5,2,high,2,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,1.5,F,,,L,no live,,NA
+2_2_6,2,high,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_2_7,2,high,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,F,,,R,no live,,NA
+2_2_8,2,high,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,B,no live,,NA
+2_2_9,2,high,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+2_2_10,2,high,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+2_3_0,2,high,3,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_3_1,2,high,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,,,,L,no live,,too rocky for soil moisture
+2_3_2,2,high,3,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,L,,,B,no live,,too rocky for soil moisture
+2_3_3,2,high,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+2_3_4,2,high,3,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,NA,,,,L,no live,,too rocky for soil moisture
+2_3_5,2,high,3,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,F,,,B,no live,,NA
+2_3_6,2,high,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,F,,,B,no live,,NA
+2_3_7,2,high,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,,,,B,no live,,NA
+2_3_8,2,high,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,1.5,F,,,L,no live,,NA
+2_3_9,2,high,3,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_3_10,2,high,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,F,,,R,no live,,NA
+2_4_0,2,high,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.7,F,,,B,no live,,NA
+2_4_1,2,high,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,no live,,too rocky for soil moisture
+2_4_2,2,high,4,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_4_3,2,high,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_4_4,2,high,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,0.6,F,,,L,no live,,NA
+2_4_5,2,high,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,L,,B,no live,,too rocky for soil moisture
+2_4_6,2,high,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_4_7,2,high,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_4_8,2,high,4,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,R,no live,,NA
+2_4_9,2,high,4,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,,,,R,no live,,NA
+2_4_10,2,high,4,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,F,,,L,no live,,too rocky for soil moisture
+2_5_0,2,high,5,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_5_1,2,high,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,,,,L,no live,,too rocky for soil moisture
+2_5_2,2,high,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_5_3,2,high,5,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_5_4,2,high,5,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,F,no live,,too rocky for soil moisture
+2_5_5,2,high,5,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,NA,F,,,L,no live,,too rocky for soil moisture
+2_5_6,2,high,5,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,,,,B,no live,,NA
+2_5_7,2,high,5,7,180,3,3,300,300,300,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_5_8,2,high,5,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,L,,,B,no live,,too rocky for soil moisture
+2_5_9,2,high,5,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,F,,,B,no live,,NA
+2_5_10,2,high,5,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,R,no live,,NA
+2_6_0,2,high,6,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_6_1,2,high,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+2_6_2,2,high,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_6_3,2,high,6,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.3,,,,B,no live,,NA
+2_6_4,2,high,6,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,R,no live,,NA
+2_6_5,2,high,6,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,0.5,F,,,L,no live,,NA
+2_6_6,2,high,6,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.7,0.7,F,L,,L,no live,,NA
+2_6_7,2,high,6,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,F,,,B,no live,,NA
+2_6_8,2,high,6,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,0.5,F,,,L,no live,,NA
+2_6_9,2,high,6,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+2_6_10,2,high,6,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,1,F,,,L,no live,,NA
+2_7_0,2,high,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,3.3,,,,B,no live,,NA
+2_7_1,2,high,7,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.4,,,,L,no live,,NA
+2_7_2,2,high,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_7_3,2,high,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_7_4,2,high,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.4,F,,,R,no live,,NA
+2_7_5,2,high,7,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,0.5,F,,,L,no live,,NA
+2_7_6,2,high,7,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_7_7,2,high,7,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,R,no live,,NA
+2_7_8,2,high,7,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,2.8,F,,,B,no live,,NA
+2_7_9,2,high,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+2_7_10,2,high,7,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,WD,no live,,NA
+2_8_0,2,high,8,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,B,no live,,NA
+2_8_1,2,high,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+2_8_2,2,high,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,,,,L,no live,,too rocky for soil moisture
+2_8_3,2,high,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+2_8_4,2,high,8,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too rocky for soil moisture
+2_8_5,2,high,8,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,no live,,litter pile adjacent rill - deposited by flow/too rocky for soil moisture
+2_8_6,2,high,8,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.8,G,F,,L,no live,,NA
+2_8_7,2,high,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,L,,B,no live,,too rocky for soil moisture
+2_8_8,2,high,8,8,7,36,160,3,7,20,3,3,3,3,3,3,FALSE,FALSE,0.1,1.3,F,,,L,no live,,NA
+2_8_9,2,high,8,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+2_8_10,2,high,8,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,WD,no live,,NA
+2_9_0,2,high,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too loose for soil moisture
+2_9_1,2,high,9,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+2_9_2,2,high,9,2,3,3,3,3,3,3,46,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+2_9_3,2,high,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+2_9_4,2,high,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,,,,B,no live,,NA
+2_9_5,2,high,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,B,no live,,NA
+2_9_6,2,high,9,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_9_7,2,high,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.4,F,,,B,no live,,NA
+2_9_8,2,high,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.4,,,,R,no live,,NA
+2_9_9,2,high,9,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,woody dead - can't sample soil moisture
+2_9_10,2,high,9,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,no live,,pile of litter - likely from flow behind log
+2_10_0,2,high,10,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,B,no live,,NA
+2_10_1,2,high,10,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,WD,no live,,NA
+2_10_2,2,high,10,2,3,20,300,3,3,81,23,175,266,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_10_3,2,high,10,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+2_10_4,2,high,10,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.5,,,,L,no live,,NA
+2_10_5,2,high,10,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,B,no live,,NA
+2_10_6,2,high,10,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,2.7,F,,,L,no live,,NA
+2_10_7,2,high,10,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+2_10_8,2,high,10,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+2_10_9,2,high,10,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too rocky for soil moisture
+2_10_10,2,high,10,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,F,,,B,no live,,NA
+3_0_0,3,high,0,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too loose to sample soil moisture
+3_0_1,3,high,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,,,,R,no live,,NA
+3_0_2,3,high,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,too loose to sample soil moisture
+3_0_3,3,high,0,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,F,,,L,no live,,too loose to sample soil moisture
+3_0_4,3,high,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.8,,,,B,no live,,NA
+3_0_5,3,high,0,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,L,,B,no live,,too loose to sample soil moisture
+3_0_6,3,high,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,no live,,too loose to sample soil moisture
+3_0_7,3,high,0,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,NA,0.5,F,,,B,no live,,NA
+3_0_8,3,high,0,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,NA,3,F,,,R,no live,,NA
+3_0_9,3,high,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,NA,NA,,,,R,no live,,too loose to sample soil moisture
+3_0_10,3,high,0,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,NA,,,,L,no live,,too loose to sample soil moisture
+3_1_0,3,high,1,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,R,no live,,NA
+3_1_1,3,high,1,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,,,,B,no live,,NA
+3_1_2,3,high,1,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,,,,L,no live,,too rocky for soil moisture
+3_1_3,3,high,1,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,NA
+3_1_4,3,high,1,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,F,,,R,no live,,NA
+3_1_5,3,high,1,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,too loose to sample soil moisture
+3_1_6,3,high,1,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,WD,no live,,too loose to sample soil moisture
+3_1_7,3,high,1,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,L,,,L,no live,,NA
+3_1_8,3,high,1,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,1.4,F,,,L,no live,,too loose to sample soil moisture
+3_1_9,3,high,1,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,NA,F,,,L,no live,,NA
+3_1_10,3,high,1,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,0.6,,,,L,no live,,NA
+3_2_0,3,high,2,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,no live,,too rocky for soil moisture
+3_2_1,3,high,2,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,,,,L,no live,,too rocky for soil moisture
+3_2_2,3,high,2,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too rocky for soil moisture
+3_2_3,3,high,2,3,3,3,3,3,3,3,3,3,3,5,14,15,FALSE,FALSE,0,0.5,L,,,B,no live,,NA
+3_2_4,3,high,2,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,2.4,F,G,,L,no live,,NA
+3_2_5,3,high,2,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,NA,,,,L,no live,,too rocky for soil moisture
+3_2_6,3,high,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too loose to sample soil moisture
+3_2_7,3,high,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,NA,F,,,L,no live,,too rocky for soil moisture
+3_2_8,3,high,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+3_2_9,3,high,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too rocky for soil moisture
+3_2_10,3,high,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,WD,no live,,NA
+3_3_0,3,high,3,0,3,3,3,3,3,3,3,3,3,5,5,5,FALSE,FALSE,0,0.9,,,,R,no live,,NA
+3_3_1,3,high,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,L,,,R,no live,,too rocky for soil moisture
+3_3_2,3,high,3,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+3_3_3,3,high,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,WD,F,,R,no live,,too rocky for soil moisture
+3_3_4,3,high,3,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,WD,F,,R,no live,,NA
+3_3_5,3,high,3,5,3,3,3,3,3,3,3,3,3,3,5,7,FALSE,FALSE,0.7,NA,L,,,L,no live,,too rocky for soil moisture
+3_3_6,3,high,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,NA,F,,,L,no live,,too loose to sample soil moisture
+3_3_7,3,high,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,NA,F,,,L,no live,,too loose to sample soil moisture
+3_3_8,3,high,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,no live,,too rocky for soil moisture
+3_3_9,3,high,3,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,WD,F,,B,no live,,NA
+3_3_10,3,high,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,NA,F,,,L,no live,,loose packed sticks - too loose to sample soil moisture
+3_4_0,3,high,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,no live,,too rocky for soil moisture
+3_4_1,3,high,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,F,,,L,no live,,too rocky for soil moisture
+3_4_2,3,high,4,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.7,1.2,F,,,L,no live,,loose packed sticks
+3_4_3,3,high,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,0.6,F,L,,L,no live,,NA
+3_4_4,3,high,4,4,3,3,3,3,3,3,15,38,45,240,300,300,TRUE,TRUE,1.9,NA,F,,,L,no live,,too loose to sample soil moisture
+3_4_5,3,high,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,L,,,B,no live,,too rocky for soil moisture
+3_4_6,3,high,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,,,,L,no live,,too rocky for soil moisture
+3_4_7,3,high,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+3_4_8,3,high,4,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,2,,,,L,no live,,NA
+3_4_9,3,high,4,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.7,1,F,,,L,no live,,loose packed sticks
+3_4_10,3,high,4,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+3_5_0,3,high,5,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,too loose to sample soil moisture
+3_5_1,3,high,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too loose to sample soil moisture
+3_5_2,3,high,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,F,,,R,no live,,NA
+3_5_3,3,high,5,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.2,F,,,B,no live,,NA
+3_5_4,3,high,5,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,F,,,L,no live,,too rocky for soil moisture
+3_5_5,3,high,5,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,F,,,R,no live,,NA
+3_5_6,3,high,5,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,B,no live,,NA
+3_5_7,3,high,5,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,2,F,,,L,no live,,NA
+3_5_8,3,high,5,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,2.2,L,,,L,no live,,NA
+3_5_9,3,high,5,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,F,,,WD,no live,,NA
+3_5_10,3,high,5,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1,F,,,L,no live,,NA
+3_6_0,3,high,6,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.1,F,,,B,no live,,NA
+3_6_1,3,high,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+3_6_2,3,high,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,NA,F,,,L,no live,,too rocky for soil moisture
+3_6_3,3,high,6,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+3_6_4,3,high,6,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+3_6_5,3,high,6,5,3,3,3,3,3,3,30,3,3,3,3,3,FALSE,FALSE,0.2,NA,F,,,L,no live,,too rocky for soil moisture
+3_6_6,3,high,6,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,,,,L,no live,,too rocky for soil moisture
+3_6_7,3,high,6,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,L,,,B,no live,,too rocky for soil moisture
+3_6_8,3,high,6,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,WD,,,B,no live,,too rocky for soil moisture
+3_6_9,3,high,6,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+3_6_10,3,high,6,10,3,3,3,3,3,3,18,3,152,3,3,3,FALSE,FALSE,2.6,NA,F,,,L,no live,,loose packed sticks/too rocky for soil moisture
+3_7_0,3,high,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,R,no live,,NA
+3_7_1,3,high,7,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+3_7_2,3,high,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,NA,,,,L,no live,,too rocky for soil moisture
+3_7_3,3,high,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,,,,L,no live,,too loose to sample soil moisture
+3_7_4,3,high,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,F,,,L,no live,,too loose to sample soil moisture
+3_7_5,3,high,7,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.7,NA,,,,L,no live,,loose packed sticks/too rocky for soil moisture
+3_7_6,3,high,7,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+3_7_7,3,high,7,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,R,no live,,NA
+3_7_8,3,high,7,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,,,,R,no live,,NA
+3_7_9,3,high,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too loose to sample soil moisture
+3_7_10,3,high,7,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too loose to sample soil moisture
+3_8_0,3,high,8,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+3_8_1,3,high,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+3_8_2,3,high,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,too rocky for soil moisture
+3_8_3,3,high,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too rocky for soil moisture
+3_8_4,3,high,8,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,B,no live,,NA
+3_8_5,3,high,8,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,F,,,B,no live,,NA
+3_8_6,3,high,8,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,too rocky for soil moisture
+3_8_7,3,high,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+3_8_8,3,high,8,8,3,210,300,49,250,300,3,3,3,3,3,3,FALSE,FALSE,0.5,1.8,,,,L,no live,,NA
+3_8_9,3,high,8,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,R,no live,,NA
+3_8_10,3,high,8,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,,,,B,no live,,NA
+3_9_0,3,high,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,WD,no live,,too rocky for soil moisture
+3_9_1,3,high,9,1,163,300,3,63,300,3,3,3,8,3,3,3,FALSE,FALSE,0,1.1,L,,,B,no live,,NA
+3_9_2,3,high,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.5,,,,R,no live,,NA
+3_9_3,3,high,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,WD,,,B,no live,,too rocky for soil moisture
+3_9_4,3,high,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+3_9_5,3,high,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too loose to sample soil moisture
+3_9_6,3,high,9,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,no live,,too loose to sample soil moisture
+3_9_7,3,high,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for soil moisture
+3_9_8,3,high,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,WD,F,,B,no live,,too rocky for soil moisture
+3_9_9,3,high,9,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for soil moisture
+3_9_10,3,high,9,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,3.1,,,,R,no live,,NA
+3_10_0,3,high,10,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,R,no live,,NA
+3_10_1,3,high,10,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+3_10_2,3,high,10,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,,,,WD,no live,,NA
+3_10_3,3,high,10,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too loose to sample soil moisture
+3_10_4,3,high,10,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,WD,no live,,NA
+3_10_5,3,high,10,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,large rill/too loose to sample soil moisture
+3_10_6,3,high,10,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,large rill/too loose to sample soil moisture
+3_10_7,3,high,10,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,WD,no live,,NA
+3_10_8,3,high,10,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,F,,,B,no live,,NA
+3_10_9,3,high,10,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.6,F,,,R,no live,,NA
+3_10_10,3,high,10,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,1,,,,L,no live,,NA
+4_0_0,4,moderate,0,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,1.5,L,,,L,no live,,NA
+4_0_1,4,moderate,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,WD,no live,,NA
+4_0_2,4,moderate,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,0.1,F,,,L,no live,,NA
+4_0_3,4,moderate,0,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,1.4,,,,L,no live,,NA
+4_0_4,4,moderate,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,0.5,F,WD,,L,no live,,NA
+4_0_5,4,moderate,0,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,WD,no live,,NA
+4_0_6,4,moderate,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,0.1,F,,,L,no live,,NA
+4_0_7,4,moderate,0,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,0.4,F,,,L,no live,,NA
+4_0_8,4,moderate,0,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.2,,,,L,no live,,NA
+4_0_9,4,moderate,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.5,,,,L,no live,,NA
+4_0_10,4,moderate,0,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,B,no live,,NA
+4_1_0,4,moderate,1,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,1.5,L,,,L,no live,,NA
+4_1_1,4,moderate,1,1,3,3,3,5,64,122,43,92,5,3,3,3,FALSE,FALSE,1.1,1.3,,,,L,no live,,NA
+4_1_2,4,moderate,1,2,3,3,3,5,9,5,3,3,3,3,3,3,FALSE,FALSE,0.8,0.8,,,,L,no live,,NA
+4_1_3,4,moderate,1,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,WD,no live,,NA
+4_1_4,4,moderate,1,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,0.9,,,,L,no live,,NA
+4_1_5,4,moderate,1,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,F,,,WD,no live,,NA
+4_1_6,4,moderate,1,6,3,3,3,12,300,3,3,67,300,3,3,3,FALSE,FALSE,1.1,0.4,F,,,L,no live,,NA
+4_1_7,4,moderate,1,7,3,180,250,3,3,3,3,3,25,3,3,3,FALSE,FALSE,0.4,0.2,F,,,L,no live,,NA
+4_1_8,4,moderate,1,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.4,F,,,L,no live,,NA
+4_1_9,4,moderate,1,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.5,,,,L,no live,,NA
+4_1_10,4,moderate,1,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,0.8,,,,R,no live,,NA
+4_2_0,4,moderate,2,0,3,83,3,3,3,3,3,3,3,3,57,300,FALSE,FALSE,0,0.6,,,,B,no live,,NA
+4_2_1,4,moderate,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,SD,,,SD,no live,,tree - not sampled
+4_2_2,4,moderate,2,2,3,3,3,3,3,3,7,300,187,3,3,3,FALSE,FALSE,1.3,1.1,F,,,L,no live,,near tree
+4_2_3,4,moderate,2,3,3,3,3,22,70,123,3,260,300,3,3,3,FALSE,FALSE,1.6,1.5,,,,L,no live,,NA
+4_2_4,4,moderate,2,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.1,,,,B,no live,,NA
+4_2_5,4,moderate,2,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.7,F,,,L,no live,,NA
+4_2_6,4,moderate,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1,F,,,L,no live,,NA
+4_2_7,4,moderate,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,0.1,WD,,,L,no live,,NA
+4_2_8,4,moderate,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.2,,,,M,no live,,NA
+4_2_9,4,moderate,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+4_2_10,4,moderate,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+4_3_0,4,moderate,3,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,0.2,,,,L,no live,,NA
+4_3_1,4,moderate,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.3,0.5,,,,L,no live,,NA
+4_3_2,4,moderate,3,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,1,F,,,L,no live,,NA
+4_3_3,4,moderate,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.7,,,,L,no live,,NA
+4_3_4,4,moderate,3,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,0.8,,,,L,no live,,NA
+4_3_5,4,moderate,3,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,1,L,,,L,no live,,NA
+4_3_6,4,moderate,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,1.2,F,,,L,no live,,NA
+4_3_7,4,moderate,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,,,,B,no live,,NA
+4_3_8,4,moderate,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.2,,,,L,no live,,NA
+4_3_9,4,moderate,3,9,3,3,3,3,140,300,3,3,3,3,3,3,FALSE,FALSE,0.1,1.1,F,,,L,no live,,NA
+4_3_10,4,moderate,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.5,,,,B,no live,,NA
+4_4_0,4,moderate,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,0.4,,,,L,no live,,NA
+4_4_1,4,moderate,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,WD,no live,,NA
+4_4_2,4,moderate,4,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,0.8,,,,L,no live,,NA
+4_4_3,4,moderate,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,1,,,,L,no live,,NA
+4_4_4,4,moderate,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,B,no live,,NA
+4_4_5,4,moderate,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,0.1,F,,,L,no live,,NA
+4_4_6,4,moderate,4,6,300,300,300,20,30,300,3,3,3,3,3,3,FALSE,FALSE,0.2,1.4,,,,L,no live,,NA
+4_4_7,4,moderate,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,0.8,,,,L,no live,,NA
+4_4_8,4,moderate,4,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.6,0.8,,,,L,no live,,NA
+4_4_9,4,moderate,4,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,0.4,F,,,L,no live,,NA
+4_4_10,4,moderate,4,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,L,,,R,no live,,NA
+4_5_0,4,moderate,5,0,5,5,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.3,,,,L,no live,,NA
+4_5_1,4,moderate,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.2,F,,,L,no live,,NA
+4_5_2,4,moderate,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,WD,no live,,NA
+4_5_3,4,moderate,5,3,3,3,3,3,3,3,3,3,3,300,300,300,TRUE,TRUE,0,0.1,,,,B,no live,,under ash layer
+4_5_4,4,moderate,5,4,3,3,3,300,300,300,60,150,300,30,120,300,FALSE,FALSE,0.2,0.2,,,,L,no live,,under ash layer
+4_5_5,4,moderate,5,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.9,0.1,,,,WD,no live,,NA
+4_5_6,4,moderate,5,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,R,no live,,NA
+4_5_7,4,moderate,5,7,3,3,3,3,3,3,3,3,3,3,3,3,TRUE,TRUE,1.8,0.9,,,,L,no live,,NA
+4_5_8,4,moderate,5,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.3,F,G,,L,no live,,NA
+4_5_9,4,moderate,5,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.3,F,,,L,no live,,NA
+4_5_10,4,moderate,5,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.3,F,,,L,no live,,NA
+4_6_0,4,moderate,6,0,100,100,100,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,1.5,F,,,L,no live,,NA
+4_6_1,4,moderate,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,0.1,,,,L,no live,,NA
+4_6_2,4,moderate,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,0.9,,,,L,no live,,NA
+4_6_3,4,moderate,6,3,100,180,180,300,300,300,300,300,300,300,300,300,TRUE,TRUE,1.4,1.5,F,,,L,no live,,underlays ash
+4_6_4,4,moderate,6,4,3,3,3,3,3,3,5,10,10,30,85,300,FALSE,FALSE,0.9,0.5,F,,,L,no live,,underlays ash
+4_6_5,4,moderate,6,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,0.8,,,,L,no live,,NA
+4_6_6,4,moderate,6,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.8,,,,WD,no live,,NA
+4_6_7,4,moderate,6,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,SD,no live,,tree
+4_6_8,4,moderate,6,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.8,,,,L,no live,,NA
+4_6_9,4,moderate,6,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.4,,,,R,no live,,NA
+4_6_10,4,moderate,6,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.4,,,,R,no live,,NA
+4_7_0,4,moderate,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,0.4,,,,L,no live,,NA
+4_7_1,4,moderate,7,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,0.2,F,,,L,no live,,NA
+4_7_2,4,moderate,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,1.6,F,,,L,no live,,NA
+4_7_3,4,moderate,7,3,3,3,3,90,110,300,3,3,3,3,3,3,FALSE,FALSE,1.6,0.9,F,,,L,no live,,under ash layer
+4_7_4,4,moderate,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.2,,,,B,no live,,NA
+4_7_5,4,moderate,7,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.2,,,,WD,no live,,NA
+4_7_6,4,moderate,7,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,WD,no live,,NA
+4_7_7,4,moderate,7,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,0.1,,,,L,no live,,NA
+4_7_8,4,moderate,7,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,1,F,,,L,no live,,NA
+4_7_9,4,moderate,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.3,,,,WD,no live,,NA
+4_7_10,4,moderate,7,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.9,,,,L,no live,,NA
+4_8_0,4,moderate,8,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,1.5,,,,L,no live,,NA
+4_8_1,4,moderate,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,1.6,,,,L,no live,,NA
+4_8_2,4,moderate,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,1.2,,,,L,no live,,NA
+4_8_3,4,moderate,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.8,0.7,F,,,L,no live,,NA
+4_8_4,4,moderate,8,4,3,3,3,300,300,300,3,120,300,3,3,3,FALSE,FALSE,0.1,0.5,,,,L,no live,,NA
+4_8_5,4,moderate,8,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.6,,,,L,no live,,NA
+4_8_6,4,moderate,8,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,R,no live,,NA
+4_8_7,4,moderate,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,1.4,,,,L,no live,,NA
+4_8_8,4,moderate,8,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.3,,,,L,no live,,NA
+4_8_9,4,moderate,8,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,,,,WD,no live,,NA
+4_8_10,4,moderate,8,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,,,,WD,no live,,downed decaying logs
+4_9_0,4,moderate,9,0,3,3,3,3,40,93,3,300,300,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,NA
+4_9_1,4,moderate,9,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,F,,,R,no live,,NA
+4_9_2,4,moderate,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.5,,,,L,no live,,NA
+4_9_3,4,moderate,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,NA,,,,L,no live,,NA
+4_9_4,4,moderate,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,no live,,NA
+4_9_5,4,moderate,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,NA,,,,L,no live,,NA
+4_9_6,4,moderate,9,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,1.6,,,,L,no live,,NA
+4_9_7,4,moderate,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,,,,L,no live,,NA
+4_9_8,4,moderate,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,,,,B,no live,,NA
+4_9_9,4,moderate,9,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.5,F,,,L,no live,,NA
+4_9_10,4,moderate,9,10,3,3,3,300,300,300,3,8,300,3,3,3,FALSE,FALSE,0,0.6,,,,B,no live,,NA
+4_10_0,4,moderate,10,0,3,3,3,3,300,300,3,3,3,3,3,3,FALSE,FALSE,1.8,1.7,,,,L,no live,,ashy top layer/too loose to sample soil moisture
+4_10_1,4,moderate,10,1,3,3,3,3,3,3,3,300,300,3,3,3,FALSE,FALSE,0.2,NA,L,,,L,no live,,ashy top layer
+4_10_2,4,moderate,10,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,0.7,L,F,,L,no live,,NA
+4_10_3,4,moderate,10,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,0.5,F,,,L,no live,,NA
+4_10_4,4,moderate,10,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,F,,,B,no live,,NA
+4_10_5,4,moderate,10,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,,,,L,no live,,too rocky for soil moisture
+4_10_6,4,moderate,10,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,F,,,L,no live,,too rocky for soil moisture
+4_10_7,4,moderate,10,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,0.8,,,,L,no live,,NA
+4_10_8,4,moderate,10,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+4_10_9,4,moderate,10,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.9,,,,L,no live,,NA
+4_10_10,4,moderate,10,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for soil moisture
+5_0_0,5,moderate,0,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.5,F,,,L,no live,,NA
+5_0_1,5,moderate,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.7,F,,,L,no live,,NA
+5_0_2,5,moderate,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.2,WD,,,WD,no live,,tree
+5_0_3,5,moderate,0,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.2,,,,L,no live,,NA
+5_0_4,5,moderate,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,1.1,,,,L,no live,,NA
+5_0_5,5,moderate,0,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,1.5,F,,,L,no live,,NA
+5_0_6,5,moderate,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.6,2.3,F,,,L,no live,,loose litter
+5_0_7,5,moderate,0,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.8,1,F,,,L,no live,,NA
+5_0_8,5,moderate,0,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.9,F,,,L,no live,,NA
+5_0_9,5,moderate,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,1.6,F,,,L,no live,,NA
+5_0_10,5,moderate,0,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.2,,,,R,no live,,NA
+5_1_0,5,moderate,1,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.2,,,,L,no live,,NA
+5_1_1,5,moderate,1,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,F,,,L,no live,,NA
+5_1_2,5,moderate,1,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,F,,,L,no live,,NA
+5_1_3,5,moderate,1,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,WD,no live,,NA
+5_1_4,5,moderate,1,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,2.7,F,,,L,no live,,loose packed sticks
+5_1_5,5,moderate,1,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,F,,,WD,no live,,NA
+5_1_6,5,moderate,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,L,,,M,no live,,moss
+5_1_7,5,moderate,1,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.7,F,,,M,no live,,NA
+5_1_8,5,moderate,1,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,2.9,F,,,L,no live,,NA
+5_1_9,5,moderate,1,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.2,,,,L,no live,,NA
+5_1_10,5,moderate,1,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,WD,no live,,NA
+5_2_0,5,moderate,2,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,F,,,L,no live,,loose packed sticks
+5_2_1,5,moderate,2,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+5_2_2,5,moderate,2,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,2.1,F,,,L,no live,,NA
+5_2_3,5,moderate,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.7,F,,,M,no live,,moss
+5_2_4,5,moderate,2,4,3,3,3,3,3,3,3,3,3,45,300,300,TRUE,FALSE,0.3,1.6,F,,,L,no live,,ashy top layer
+5_2_5,5,moderate,2,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.4,F,,,R,no live,,NA
+5_2_6,5,moderate,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,2.7,F,L,,L,no live,,NA
+5_2_7,5,moderate,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,3,F,,,L,no live,,NA
+5_2_8,5,moderate,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.6,,,,WD,no live,,NA
+5_2_9,5,moderate,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.2,0.9,,,,L,no live,,NA
+5_2_10,5,moderate,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,F,,,R,no live,,NA
+5_3_0,5,moderate,3,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,1.5,,,,L,no live,,NA
+5_3_1,5,moderate,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,1.2,F,,,L,no live,,NA
+5_3_2,5,moderate,3,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,,,,M,no live,,NA
+5_3_3,5,moderate,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,1,F,,,L,no live,,NA
+5_3_4,5,moderate,3,4,3,3,3,3,3,3,3,3,3,244,3,58,TRUE,FALSE,0,2.6,F,,,WD,no live,,ashy top layer
+5_3_5,5,moderate,3,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.7,,,,L,no live,,NA
+5_3_6,5,moderate,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,3.2,F,,,L,no live,,NA
+5_3_7,5,moderate,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,,,,L,no live,,NA
+5_3_8,5,moderate,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.6,,,,L,no live,,NA
+5_3_9,5,moderate,3,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,F,,,M,no live,,NA
+5_3_10,5,moderate,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,1.2,F,,,L,no live,,NA
+5_4_0,5,moderate,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,B,no live,,NA
+5_4_1,5,moderate,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,1,F,,,L,no live,,NA
+5_4_2,5,moderate,4,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,R,no live,,NA
+5_4_3,5,moderate,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,B,no live,,NA
+5_4_4,5,moderate,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,WD,no live,,NA
+5_4_5,5,moderate,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,F,,,R,no live,,NA
+5_4_6,5,moderate,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,,,,B,no live,,NA
+5_4_7,5,moderate,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,NA,3.5,WD,,,WD,no live,,tree
+5_4_8,5,moderate,4,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.3,F,,,WD,no live,,NA
+5_4_9,5,moderate,4,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.8,NA,F,,,L,no live,,NA
+5_4_10,5,moderate,4,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,1.5,WD,F,,L,no live,,NA
+5_5_0,5,moderate,5,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,1.2,F,,,L,no live,,NA
+5_5_1,5,moderate,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,,,,R,no live,,NA
+5_5_2,5,moderate,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.5,F,,,L,no live,,NA
+5_5_3,5,moderate,5,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,R,no live,,NA
+5_5_4,5,moderate,5,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,3,F,,,R,no live,,NA
+5_5_5,5,moderate,5,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,0.5,,,,L,no live,,NA
+5_5_6,5,moderate,5,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.2,2.6,F,WD,,L,no live,,NA
+5_5_7,5,moderate,5,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.7,F,,,R,no live,,NA
+5_5_8,5,moderate,5,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,1.3,F,,,L,no live,,NA
+5_5_9,5,moderate,5,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,F,,,B,no live,,NA
+5_5_10,5,moderate,5,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.4,2.6,,,,L,no live,,loose packed sticks
+5_6_0,5,moderate,6,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.1,2.5,F,,,L,no live,,pile of sticks and needles
+5_6_1,5,moderate,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2,F,,,B,no live,,NA
+5_6_2,5,moderate,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.9,4.1,,,,L,no live,,pile of sticks and needles
+5_6_3,5,moderate,6,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+5_6_4,5,moderate,6,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,2.2,,,,L,no live,,NA
+5_6_5,5,moderate,6,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,1.7,F,,,L,no live,,NA
+5_6_6,5,moderate,6,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,1.5,F,,,L,no live,,NA
+5_6_7,5,moderate,6,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,2.7,F,,,L,no live,,NA
+5_6_8,5,moderate,6,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2,F,,,B,no live,,NA
+5_6_9,5,moderate,6,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.8,F,,,WD,no live,,NA
+5_6_10,5,moderate,6,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+5_7_0,5,moderate,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.2,NA,,,,L,no live,,"pile of sticks, bark, and needles/too loose to sample soil moisture"
+5_7_1,5,moderate,7,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.3,1,F,,,L,no live,,pile of sticks and needles
+5_7_2,5,moderate,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.5,,,,R,no live,,NA
+5_7_3,5,moderate,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.5,,,,B,no live,,NA
+5_7_4,5,moderate,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,3.1,F,,,B,no live,,NA
+5_7_5,5,moderate,7,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,1.2,F,,,L,no live,,NA
+5_7_6,5,moderate,7,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.1,F,,,B,no live,,NA
+5_7_7,5,moderate,7,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,3.5,,,,L,no live,,NA
+5_7_8,5,moderate,7,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.9,2.6,F,,,L,no live,,loose sticks and needles
+5_7_9,5,moderate,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,3.5,,,,L,no live,,NA
+5_7_10,5,moderate,7,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.6,,,,R,no live,,NA
+5_8_0,5,moderate,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,F,,,R,no live,,tree roots prevented soil sampling
+5_8_1,5,moderate,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too loose to sample soil moisture
+5_8_2,5,moderate,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,F,,,B,no live,,NA
+5_8_3,5,moderate,8,3,20,20,300,3,3,5,3,3,3,3,3,3,FALSE,FALSE,0,0.9,,,,B,no live,,NA
+5_8_4,5,moderate,8,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.8,,,,WD,no live,,NA
+5_8_5,5,moderate,8,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,3.2,F,,,L,no live,,NA
+5_8_6,5,moderate,8,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,1.2,F,,,L,no live,,NA
+5_8_7,5,moderate,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,F,,,M,no live,,NA
+5_8_8,5,moderate,8,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.7,0.6,,,,L,no live,,NA
+5_8_9,5,moderate,8,9,3,3,3,300,300,300,20,20,20,10,10,10,FALSE,FALSE,0,1.3,,,,B,no live,,NA
+5_8_10,5,moderate,8,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,2,F,,,L,no live,,loose sticks
+5_9_0,5,moderate,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too loose to sample soil moisture
+5_9_1,5,moderate,9,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.7,F,,,L,no live,,NA
+5_9_2,5,moderate,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,2,WD,,,L,no live,,NA
+5_9_3,5,moderate,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too loose to sample soil moisture
+5_9_4,5,moderate,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,2.1,F,,,L,no live,,loose packed sticks
+5_9_5,5,moderate,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,F,,,B,no live,,NA
+5_9_6,5,moderate,9,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too loose to sample soil moisture
+5_9_7,5,moderate,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,1.5,,,,L,no live,,NA
+5_9_8,5,moderate,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,,,,R,no live,,NA
+5_9_9,5,moderate,9,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too loose to sample soil moisture
+5_9_10,5,moderate,9,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,,,,R,no live,,NA
+5_10_0,5,moderate,10,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,B,no live,,NA
+5_10_1,5,moderate,10,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,0.5,F,,,L,no live,,NA
+5_10_2,5,moderate,10,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,F,,,B,no live,,NA
+5_10_3,5,moderate,10,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,F,,,R,no live,,NA
+5_10_4,5,moderate,10,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too loose to sample soil moisture
+5_10_5,5,moderate,10,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.6,0.5,,,,L,no live,,litter is pile of loose packed sticks
+5_10_6,5,moderate,10,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too loose to sample soil moisture
+5_10_7,5,moderate,10,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+5_10_8,5,moderate,10,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,F,,,B,no live,,NA
+5_10_9,5,moderate,10,9,80,300,300,17,20,3,3,3,20,3,3,3,FALSE,FALSE,0,0.6,,,,B,no live,,NA
+5_10_10,5,moderate,10,10,5,5,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+6_0_0,6,moderate,0,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.8,,,,R,no live,,downslope of large tree
+6_0_1,6,moderate,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,,,,WD,no live,,downslope of large tree
+6_0_2,6,moderate,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.6,F,,,L,no live,,downslope of large tree
+6_0_3,6,moderate,0,3,3,3,3,132,146,300,3,8,300,3,3,3,FALSE,FALSE,0.2,1.2,F,,,B,no live,,downslope of large tree
+6_0_4,6,moderate,0,4,3,3,3,3,3,3,68,300,300,3,3,38,FALSE,FALSE,0.2,0.7,,,,R,no live,,downslope of large tree
+6_0_5,6,moderate,0,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,1.2,,,,L,no live,,NA
+6_0_6,6,moderate,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,2.2,F,,,L,no live,,NA
+6_0_7,6,moderate,0,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.7,,,,L,no live,,NA
+6_0_8,6,moderate,0,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,2.2,,,,L,no live,,NA
+6_0_9,6,moderate,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,1.5,,,,L,no live,,NA
+6_0_10,6,moderate,0,10,3,3,3,3,3,3,3,3,3,3,183,300,FALSE,FALSE,0.2,NA,,,,L,no live,,too rocky for SM
+6_1_0,6,moderate,1,0,3,3,3,3,3,3,3,3,300,3,300,300,TRUE,FALSE,0.6,0.9,F,,,L,no live,,downslope of large tree
+6_1_1,6,moderate,1,1,3,3,3,3,3,3,3,3,3,3,3,300,FALSE,FALSE,0.3,0.6,,,,L,no live,,downslope of large tree
+6_1_2,6,moderate,1,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,1.2,F,,,L,no live,,downslope of large tree
+6_1_3,6,moderate,1,3,3,3,3,3,300,300,3,3,3,3,3,3,FALSE,FALSE,0.1,0.7,,,,L,no live,,downslope of large tree
+6_1_4,6,moderate,1,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,B,no live,,downslope of large tree
+6_1_5,6,moderate,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,SD,no live,,tree
+6_1_6,6,moderate,1,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,0.8,F,,,L,no live,,NA
+6_1_7,6,moderate,1,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,,,,L,no live,,NA
+6_1_8,6,moderate,1,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,0.8,F,,,L,no live,,NA
+6_1_9,6,moderate,1,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.7,F,,,L,no live,,NA
+6_1_10,6,moderate,1,10,3,3,3,3,64,300,3,3,25,3,3,3,FALSE,FALSE,0.1,1.9,,,,L,no live,,NA
+6_2_0,6,moderate,2,0,3,3,3,33,280,300,3,3,3,3,3,3,FALSE,FALSE,0.2,0.6,F,WD,,L,no live,,NA
+6_2_1,6,moderate,2,1,3,3,3,3,3,300,3,34,300,300,300,300,TRUE,FALSE,0.2,1.5,F,,,L,no live,,NA
+6_2_2,6,moderate,2,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.5,F,,,L,no live,,NA
+6_2_3,6,moderate,2,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,0.6,,,,L,no live,,NA
+6_2_4,6,moderate,2,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.1,F,,,L,no live,,NA
+6_2_5,6,moderate,2,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.9,,,,L,no live,,NA
+6_2_6,6,moderate,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,0.9,,,,L,no live,,NA
+6_2_7,6,moderate,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,0.6,,,,L,no live,,NA
+6_2_8,6,moderate,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,2.5,,,,L,no live,,NA
+6_2_9,6,moderate,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.5,F,,,B,no live,,NA
+6_2_10,6,moderate,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,3.4,,,,L,no live,,NA
+6_3_0,6,moderate,3,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,0.8,,,,L,no live,,NA
+6_3_1,6,moderate,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,1.1,,,,L,no live,,NA
+6_3_2,6,moderate,3,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.6,F,,,L,no live,,NA
+6_3_3,6,moderate,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.6,,,,L,no live,,NA
+6_3_4,6,moderate,3,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,2.6,F,,,L,no live,,NA
+6_3_5,6,moderate,3,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,,,,R,no live,,NA
+6_3_6,6,moderate,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.5,,,,L,no live,,NA
+6_3_7,6,moderate,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,1.2,L,,,L,no live,,NA
+6_3_8,6,moderate,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.9,,,,L,no live,,NA
+6_3_9,6,moderate,3,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.5,,,,L,no live,,NA
+6_3_10,6,moderate,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.8,F,,,WD,no live,,NA
+6_4_0,6,moderate,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,,,,L,no live,,NA
+6_4_1,6,moderate,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,0.6,,,,L,no live,,NA
+6_4_2,6,moderate,4,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,0.9,,,,L,no live,,NA
+6_4_3,6,moderate,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,0.9,,,,L,no live,,NA
+6_4_4,6,moderate,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,,,,WD,no live,,NA
+6_4_5,6,moderate,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,0.6,,,,L,no live,,NA
+6_4_6,6,moderate,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.8,,,,R,no live,,NA
+6_4_7,6,moderate,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1,,,,B,no live,,NA
+6_4_8,6,moderate,4,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,0.9,,,,L,no live,,NA
+6_4_9,6,moderate,4,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,,,,L,no live,,NA
+6_4_10,6,moderate,4,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.6,,,,L,no live,,NA
+6_5_0,6,moderate,5,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2,L,,,B,no live,,NA
+6_5_1,6,moderate,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.4,,,,L,no live,,NA
+6_5_2,6,moderate,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,R,no live,,NA
+6_5_3,6,moderate,5,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,B,no live,,NA
+6_5_4,6,moderate,5,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.5,,,,L,no live,,NA
+6_5_5,6,moderate,5,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,3.9,,,,L,no live,,NA
+6_5_6,6,moderate,5,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,0.5,WD,,,L,no live,,NA
+6_5_7,6,moderate,5,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,,,,L,no live,,NA
+6_5_8,6,moderate,5,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,2.3,,,,L,no live,,NA
+6_5_9,6,moderate,5,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.8,,,,WD,no live,,NA
+6_5_10,6,moderate,5,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.3,,,,L,no live,,NA
+6_6_0,6,moderate,6,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,,,,B,no live,,NA
+6_6_1,6,moderate,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,F,,,B,no live,,NA
+6_6_2,6,moderate,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2,F,,,B,no live,,NA
+6_6_3,6,moderate,6,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,1.9,F,,,L,no live,,NA
+6_6_4,6,moderate,6,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,1,F,,,L,no live,,NA
+6_6_5,6,moderate,6,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,1.6,WD,F,,L,no live,,NA
+6_6_6,6,moderate,6,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.1,3.1,,,,L,no live,,NA
+6_6_7,6,moderate,6,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.2,F,,,B,no live,,NA
+6_6_8,6,moderate,6,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,1.8,F,,,L,no live,,NA
+6_6_9,6,moderate,6,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.7,F,,,R,no live,,NA
+6_6_10,6,moderate,6,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,F,,,B,no live,,NA
+6_7_0,6,moderate,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.8,,,,B,no live,,NA
+6_7_1,6,moderate,7,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,B,no live,,NA
+6_7_2,6,moderate,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.5,1.6,,,,L,no live,,NA
+6_7_3,6,moderate,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,0.7,F,,,L,no live,,NA
+6_7_4,6,moderate,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2,,,,R,no live,,NA
+6_7_5,6,moderate,7,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.3,,,,B,no live,,NA
+6_7_6,6,moderate,7,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,2.2,,,,L,no live,,NA
+6_7_7,6,moderate,7,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,,,,B,no live,,NA
+6_7_8,6,moderate,7,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for SM
+6_7_9,6,moderate,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.4,F,,,B,no live,,NA
+6_7_10,6,moderate,7,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,1.5,F,,,L,no live,,NA
+6_8_0,6,moderate,8,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,,,,L,no live,,NA
+6_8_1,6,moderate,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.6,,,,R,no live,,NA
+6_8_2,6,moderate,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,1.5,,,,L,no live,,NA
+6_8_3,6,moderate,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,L,,,M,no live,,NA
+6_8_4,6,moderate,8,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.4,,,,L,no live,,NA
+6_8_5,6,moderate,8,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.6,,,,B,no live,,NA
+6_8_6,6,moderate,8,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,2.4,F,,,L,no live,,NA
+6_8_7,6,moderate,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,B,no live,,NA
+6_8_8,6,moderate,8,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.9,,,,R,no live,,NA
+6_8_9,6,moderate,8,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,1.7,F,,,L,no live,,NA
+6_8_10,6,moderate,8,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.8,F,L,,WD,no live,,NA
+6_9_0,6,moderate,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,,,,L,no live,,too rocky for SM
+6_9_1,6,moderate,9,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,B,no live,,NA
+6_9_2,6,moderate,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,0.5,F,,,L,no live,,NA
+6_9_3,6,moderate,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,too rocky for SM
+6_9_4,6,moderate,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,M,no live,,NA
+6_9_5,6,moderate,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,1,F,,,L,no live,,NA
+6_9_6,6,moderate,9,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,F,,,F,no live,,NA
+6_9_7,6,moderate,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,too rocky for SM
+6_9_8,6,moderate,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,0.5,F,,,L,no live,,NA
+6_9_9,6,moderate,9,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,R,no live,,NA
+6_9_10,6,moderate,9,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.5,,,,WD,no live,,NA
+6_10_0,6,moderate,10,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for SM
+6_10_1,6,moderate,10,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.5,,,,R,no live,,NA
+6_10_2,6,moderate,10,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,too rocky for SM
+6_10_3,6,moderate,10,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.6,F,,,R,no live,,NA
+6_10_4,6,moderate,10,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,R,no live,,NA
+6_10_5,6,moderate,10,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,M,no live,,too rocky for SM
+6_10_6,6,moderate,10,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.5,F,,,L,no live,,NA
+6_10_7,6,moderate,10,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,too rocky for SM
+6_10_8,6,moderate,10,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,,,,R,no live,,NA
+6_10_9,6,moderate,10,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,,,,B,no live,,NA
+6_10_10,6,moderate,10,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.9,F,,,B,no live,,NA
+7_0_0,7,low,0,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,NA
+7_0_1,7,low,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,NA,G,SD,,L,no live,,NA
+7_0_2,7,low,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,F,,,L,no live,,NA
+7_0_3,7,low,0,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.3,F,WD,,B,no live,,NA
+7_0_4,7,low,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,M,no live,,NA
+7_0_5,7,low,0,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,M,no live,,NA
+7_0_6,7,low,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1.2,,,,L,no live,,NA
+7_0_7,7,low,0,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.8,NA,,,,L,no live,,NA
+7_0_8,7,low,0,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,no live,,NA
+7_0_9,7,low,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,3.2,,,,L,no live,,NA
+7_0_10,7,low,0,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,NA,F,,,L,no live,,NA
+7_1_0,7,low,1,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,no live,,NA
+7_1_1,7,low,1,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,NA,NA,SD,,,SD,no live,,tree
+7_1_2,7,low,1,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,NA,,,,L,no live,,NA
+7_1_3,7,low,1,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,0.9,,,,L,no live,,NA
+7_1_4,7,low,1,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_1_5,7,low,1,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_1_6,7,low,1,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,G,,,B,no live,,NA
+7_1_7,7,low,1,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,G,,,L,no live,,NA
+7_1_8,7,low,1,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+7_1_9,7,low,1,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.5,F,,,B,no live,,NA
+7_1_10,7,low,1,10,3,3,3,3,3,200,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,,,,L,no live,,NA
+7_2_0,7,low,2,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,,,,L,no live,,NA
+7_2_1,7,low,2,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+7_2_2,7,low,2,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,,,,L,no live,,NA
+7_2_3,7,low,2,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,0.8,,,,L,no live,,NA
+7_2_4,7,low,2,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,G,no live,,NA
+7_2_5,7,low,2,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,NA
+7_2_6,7,low,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,no live,,too loose for SM
+7_2_7,7,low,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.8,NA,,,,L,no live,,NA
+7_2_8,7,low,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,F,,,L,no live,,NA
+7_2_9,7,low,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,2,F,,,L,no live,,NA
+7_2_10,7,low,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,G,,,L,no live,,NA
+7_3_0,7,low,3,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.6,NA,F,,,L,no live,,NA
+7_3_1,7,low,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,L,,,L,no live,,NA
+7_3_2,7,low,3,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,NA,,,,L,no live,,NA
+7_3_3,7,low,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,F,,,R,no live,,NA
+7_3_4,7,low,3,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,NA
+7_3_5,7,low,3,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,M,no live,,NA
+7_3_6,7,low,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,1.2,L,,,L,no live,,NA
+7_3_7,7,low,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,NA
+7_3_8,7,low,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,G,,,L,no live,,NA
+7_3_9,7,low,3,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,4.2,,,,L,no live,,NA
+7_3_10,7,low,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_4_0,7,low,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,,,,L,no live,,NA
+7_4_1,7,low,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.8,NA,,,,L,no live,,NA
+7_4_2,7,low,4,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+7_4_3,7,low,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.8,1.8,F,L,,L,no live,,NA
+7_4_4,7,low,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,,,,L,no live,,NA
+7_4_5,7,low,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,NA,F,WD,,L,no live,,NA
+7_4_6,7,low,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,3.9,,,,R,no live,,NA
+7_4_7,7,low,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,G,,,R,no live,,NA
+7_4_8,7,low,4,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_4_9,7,low,4,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,1.7,,,,L,no live,,NA
+7_4_10,7,low,4,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,F,,,L,no live,,NA
+7_5_0,7,low,5,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,F,L,,L,no live,,NA
+7_5_1,7,low,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,NA
+7_5_2,7,low,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,G,,,SD,no live,,NA
+7_5_3,7,low,5,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,0.8,G,,,L,no live,,NA
+7_5_4,7,low,5,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_5_5,7,low,5,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,no live,,NA
+7_5_6,7,low,5,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,2.7,F,L,,L,no live,,NA
+7_5_7,7,low,5,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.6,NA,,,,L,no live,,NA
+7_5_8,7,low,5,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+7_5_9,7,low,5,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,3.2,F,,,L,no live,,NA
+7_5_10,7,low,5,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_6_0,7,low,6,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+7_6_1,7,low,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,NA,F,,,L,no live,,NA
+7_6_2,7,low,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,NA
+7_6_3,7,low,6,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.3,F,,,B,no live,,NA
+7_6_4,7,low,6,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_6_5,7,low,6,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,,,,L,no live,,NA
+7_6_6,7,low,6,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,3.7,F,,,L,no live,,NA
+7_6_7,7,low,6,7,3,3,3,31,240,300,33,3,300,3,3,3,FALSE,FALSE,0.9,NA,F,,,L,no live,,NA
+7_6_8,7,low,6,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+7_6_9,7,low,6,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,3.7,WD,,,L,no live,,NA
+7_6_10,7,low,6,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE,0,NA,,,,B,no live,,disturbed
+7_7_0,7,low,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,NA,,,,L,no live,,NA
+7_7_1,7,low,7,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,NA,F,,,L,no live,,NA
+7_7_2,7,low,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_7_3,7,low,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,4.6,WD,,,M,no live,,NA
+7_7_4,7,low,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_7_5,7,low,7,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+7_7_6,7,low,7,6,3,3,3,3,3,20,3,10,130,3,3,3,FALSE,FALSE,0.3,1.7,,,,L,no live,,NA
+7_7_7,7,low,7,7,3,3,3,3,3,40,10,20,30,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+7_7_8,7,low,7,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,no live,,NA
+7_7_9,7,low,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,2.9,F,,,L,no live,,NA
+7_7_10,7,low,7,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,NA,,,,L,no live,,NA
+7_8_0,7,low,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,,,,B,no live,,disturbed
+7_8_1,7,low,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,F,,,L,no live,,NA
+7_8_2,7,low,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,NA
+7_8_3,7,low,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.6,3.2,F,,,L,no live,,NA
+7_8_4,7,low,8,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+7_8_5,7,low,8,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_8_6,7,low,8,6,3,3,3,120,270,300,120,300,300,3,3,3,FALSE,FALSE,0.1,4.6,F,,,L,no live,,NA
+7_8_7,7,low,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,F,no live,,NA
+7_8_8,7,low,8,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,M,no live,,NA
+7_8_9,7,low,8,9,3,3,3,10,180,300,3,3,3,3,3,3,FALSE,FALSE,0.1,4.6,,,,L,no live,,NA
+7_8_10,7,low,8,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+7_9_0,7,low,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+7_9_1,7,low,9,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,M,no live,,NA
+7_9_2,7,low,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+7_9_3,7,low,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,3,F,,,L,no live,,NA
+7_9_4,7,low,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+7_9_5,7,low,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,F,,,L,no live,,NA
+7_9_6,7,low,9,6,3,3,3,3,3,185,3,3,300,3,3,3,FALSE,FALSE,0.3,1.3,,,,L,no live,,NA
+7_9_7,7,low,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+7_9_8,7,low,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+7_9_9,7,low,9,9,3,3,3,50,50,147,10,10,15,3,3,3,FALSE,FALSE,2.3,1.3,,,,L,no live,,NA
+7_9_10,7,low,9,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,,,,B,no live,,disturbed
+7_10_0,7,low,10,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,NA
+7_10_1,7,low,10,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+7_10_2,7,low,10,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.9,NA,F,,,L,no live,,NA
+7_10_3,7,low,10,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,3.1,,,,L,no live,,NA
+7_10_4,7,low,10,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+7_10_5,7,low,10,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,,,,L,no live,,NA
+7_10_6,7,low,10,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.8,,,,WD,no live,,NA
+7_10_7,7,low,10,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,F,no live,,NA
+7_10_8,7,low,10,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,F,,,L,no live,,NA
+7_10_9,7,low,10,9,5,5,5,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,2.1,,,,B,no live,,NA
+7_10_10,7,low,10,10,30,45,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+8_0_0,8,low,0,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,no live,,NA
+8_0_1,8,low,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,TRUE,0,NA,,,,WD,no live,,NA
+8_0_2,8,low,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.1,NA,,,,L,no live,,NA
+8_0_3,8,low,0,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,3,,,,L,no live,,NA
+8_0_4,8,low,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,PSME,,NA
+8_0_5,8,low,0,5,3,3,3,3,3,3,3,3,3,300,300,300,FALSE,FALSE,0,NA,,,,WD,PSME,,downed log
+8_0_6,8,low,0,6,3,3,3,300,300,300,300,300,300,190,300,300,FALSE,FALSE,0,0.9,WD,,,M,PSME,,NA
+8_0_7,8,low,0,7,3,3,3,142,178,300,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,PSME,,NA
+8_0_8,8,low,0,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,M,PSME,,NA
+8_0_9,8,low,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.9,1.2,,,,L,PSME,,NA
+8_0_10,8,low,0,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,no live,,NA
+8_1_0,8,low,1,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,no live,,NA
+8_1_1,8,low,1,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.1,NA,F,,,L,no live,,NA
+8_1_2,8,low,1,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,NA,F,,,L,no live,,NA
+8_1_3,8,low,1,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,,,,WD,no live,,downed log
+8_1_4,8,low,1,4,3,3,3,3,133,240,3,8,84,3,78,262,FALSE,FALSE,1.9,NA,L,,,L,PSME,,NA
+8_1_5,8,low,1,5,3,3,3,3,3,300,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,PSME,,NA
+8_1_6,8,low,1,6,3,3,3,3,3,300,3,3,3,3,3,3,FALSE,FALSE,2.7,1.6,,,,L,PSME,,NA
+8_1_7,8,low,1,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,R,PSME,,NA
+8_1_8,8,low,1,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,,,,L,PSME,,NA
+8_1_9,8,low,1,9,3,3,3,3,3,3,3,110,202,24,253,300,FALSE,FALSE,1.7,0.9,,,,L,PSME,,NA
+8_1_10,8,low,1,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.1,NA,,,,L,no live,,NA
+8_2_0,8,low,2,0,3,3,3,3,3,3,300,300,300,300,300,300,TRUE,FALSE,3.9,NA,,,,L,PSME,,NA
+8_2_1,8,low,2,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,PSME,,NA
+8_2_2,8,low,2,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,no live,,NA
+8_2_3,8,low,2,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.6,1.2,,,,L,PSME,,NA
+8_2_4,8,low,2,4,3,3,3,68,300,300,10,300,300,3,3,3,FALSE,FALSE,1.5,NA,,,,L,PSME,,NA
+8_2_5,8,low,2,5,3,3,3,3,300,300,3,3,3,3,3,3,FALSE,FALSE,1.8,NA,L,,,L,PSME,,NA
+8_2_6,8,low,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.6,,,,R,PSME,,NA
+8_2_7,8,low,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,PSME,,NA
+8_2_8,8,low,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,PSME,,NA
+8_2_9,8,low,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.5,1.6,,,,L,PSME,,NA
+8_2_10,8,low,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,NA
+8_3_0,8,low,3,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,downed log
+8_3_1,8,low,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,F,,,L,no live,,NA
+8_3_2,8,low,3,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.9,NA,F,,,L,no live,,NA
+8_3_3,8,low,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.3,1.8,F,,,L,PSME,,NA
+8_3_4,8,low,3,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,NA,,,,L,PSME,,NA
+8_3_5,8,low,3,5,3,3,3,3,3,3,75,300,300,3,3,3,FALSE,FALSE,2.7,NA,,,,L,PSME,,NA
+8_3_6,8,low,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.8,1.6,F,,,L,PSME,,NA
+8_3_7,8,low,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.5,NA,,,,L,PSME,,NA
+8_3_8,8,low,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,NA,,,,L,PSME,,NA
+8_3_9,8,low,3,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.9,0.9,F,,,L,PSME,,NA
+8_3_10,8,low,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,downed log
+8_4_0,8,low,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,NA,,,,L,no live,,NA
+8_4_1,8,low,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,NA,F,,,L,no live,,NA
+8_4_2,8,low,4,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,F,,,L,no live,,NA
+8_4_3,8,low,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.2,0.5,F,,,L,no live,,NA
+8_4_4,8,low,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,M,no live,,NA
+8_4_5,8,low,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,,,,L,PSME,,NA
+8_4_6,8,low,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,F,,,B,PSME,,NA
+8_4_7,8,low,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.6,NA,,,,L,PSME,,NA
+8_4_8,8,low,4,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,WD,,,L,PSME,,NA
+8_4_9,8,low,4,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,,,,R,PSME,,NA
+8_4_10,8,low,4,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,NA,,,,L,no live,,NA
+8_5_0,8,low,5,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.3,NA,,,,L,no live,,NA
+8_5_1,8,low,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,no live,,NA
+8_5_2,8,low,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,NA,F,,,L,PSME,,NA
+8_5_3,8,low,5,3,3,3,3,3,3,3,120,300,300,3,300,300,FALSE,FALSE,2.5,0.7,F,,,L,PSME,,NA
+8_5_4,8,low,5,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,F,,,L,PSME,,NA
+8_5_5,8,low,5,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,NA,,,,L,PSME,,NA
+8_5_6,8,low,5,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,0.9,,,,L,PSME,,NA
+8_5_7,8,low,5,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,PSME,,NA
+8_5_8,8,low,5,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,PSME,,NA
+8_5_9,8,low,5,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,0.7,WD,,,L,no live,,NA
+8_5_10,8,low,5,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,NA,,,,L,no live,,NA
+8_6_0,8,low,6,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,NA,,,,L,no live,,NA
+8_6_1,8,low,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,no live,,NA
+8_6_2,8,low,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,no live,,NA
+8_6_3,8,low,6,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.6,2.6,F,,,L,no live,,NA
+8_6_4,8,low,6,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,no live,,NA
+8_6_5,8,low,6,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,,,,L,no live,,NA
+8_6_6,8,low,6,6,20,20,300,5,5,5,3,3,3,3,3,3,FALSE,FALSE,5,0.5,WD,,,L,no live,,loose packed sticks
+8_6_7,8,low,6,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,NA,,,,L,PSME,,NA
+8_6_8,8,low,6,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.6,NA,,,,L,no live,,NA
+8_6_9,8,low,6,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,WD,no live,,NA
+8_6_10,8,low,6,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+8_7_0,8,low,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+8_7_1,8,low,7,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,NA,L,,,L,no live,,NA
+8_7_2,8,low,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,no live,,NA
+8_7_3,8,low,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,F,,,M,no live,,NA
+8_7_4,8,low,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,NA,,,,L,no live,,NA
+8_7_5,8,low,7,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,,,,L,no live,,NA
+8_7_6,8,low,7,6,3,3,3,3,3,3,3,3,3,3,3,3,TRUE,TRUE,0.1,0.9,,,,L,PSME,,NA
+8_7_7,8,low,7,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,NA,F,,,L,PSME,,NA
+8_7_8,8,low,7,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,NA,F,,,L,PSME,,NA
+8_7_9,8,low,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.6,,,,B,no live,,NA
+8_7_10,8,low,7,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,NA,,,,L,no live,,NA
+8_8_0,8,low,8,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+8_8_1,8,low,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,NA,F,,,L,no live,,NA
+8_8_2,8,low,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+8_8_3,8,low,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.7,,,,B,no live,,NA
+8_8_4,8,low,8,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.9,NA,,,,L,no live,,NA
+8_8_5,8,low,8,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,,,,L,no live,,NA
+8_8_6,8,low,8,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.3,1.5,,,,L,no live,,NA
+8_8_7,8,low,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,R,PSME,,NA
+8_8_8,8,low,8,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,F,,,L,PSME,,NA
+8_8_9,8,low,8,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.4,F,,,WD,PSME,,NA
+8_8_10,8,low,8,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,F,,,L,no live,,NA
+8_9_0,8,low,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,F,,,L,no live,,NA
+8_9_1,8,low,9,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,NA
+8_9_2,8,low,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,,,,L,no live,,NA
+8_9_3,8,low,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,0.8,,,,L,no live,,NA
+8_9_4,8,low,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,NA,,,,L,no live,,NA
+8_9_5,8,low,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.6,NA,F,,,L,no live,,NA
+8_9_6,8,low,9,6,3,3,3,160,300,300,300,300,300,300,300,300,TRUE,TRUE,1,0.7,,,,L,no live,,NA
+8_9_7,8,low,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,PSME,,NA
+8_9_8,8,low,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,B,PSME,,NA
+8_9_9,8,low,9,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.6,F,,,B,PSME,,NA
+8_9_10,8,low,9,10,3,3,3,30,120,120,120,120,120,125,130,130,TRUE,TRUE,0,NA,,,,WD,no live,,NA
+8_10_0,8,low,10,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,F,,,L,no live,,NA
+8_10_1,8,low,10,1,3,3,3,3,3,3,3,3,3,3,3,3,TRUE,TRUE,1.3,NA,F,WD,,L,no live,,NA
+8_10_2,8,low,10,2,3,3,3,3,3,3,3,3,3,3,3,3,TRUE,TRUE,0,NA,,,,R,no live,,NA
+8_10_3,8,low,10,3,3,3,3,3,3,3,3,3,3,3,3,3,TRUE,TRUE,1.5,1.2,,,,L,no live,,NA
+8_10_4,8,low,10,4,3,3,3,3,3,3,3,3,3,3,3,3,TRUE,TRUE,0.7,NA,,,,L,no live,,NA
+8_10_5,8,low,10,5,3,3,3,300,300,300,3,3,3,3,3,3,FALSE,FALSE,NA,NA,T,,,T,PSME,,tree
+8_10_6,8,low,10,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,T,,,T,PSME,,tree
+8_10_7,8,low,10,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,NA,,,,L,PSME,,NA
+8_10_8,8,low,10,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,NA,,,,L,PSME,,lots of mixed ash
+8_10_9,8,low,10,9,3,3,3,3,3,3,200,300,300,300,300,300,TRUE,TRUE,0,0.5,,,,WD,PSME,,NA
+8_10_10,8,low,10,10,55,300,300,3,10,80,3,5,5,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,NA
+9_0_0,9,low,0,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,F,,,L,no live,,NA
+9_0_1,9,low,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,B,no live,,NA
+9_0_2,9,low,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,,,,L,no live,,NA
+9_0_3,9,low,0,3,3,3,3,300,300,300,3,15,300,3,10,164,FALSE,FALSE,3.2,1.2,,,,L,no live,,NA
+9_0_4,9,low,0,4,3,3,3,300,300,300,8,102,300,3,3,3,FALSE,FALSE,1.4,NA,F,,,L,no live,,matted litter layer
+9_0_5,9,low,0,5,3,3,3,3,3,3,3,140,300,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,NA
+9_0_6,9,low,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,1.4,,,,L,no live,,NA
+9_0_7,9,low,0,7,3,3,3,3,3,3,300,300,300,3,3,68,FALSE,FALSE,1,NA,,,,L,no live,,NA
+9_0_8,9,low,0,8,3,3,3,3,300,300,3,3,3,3,3,3,FALSE,FALSE,2.5,NA,F,T,,L,no live,,NA
+9_0_9,9,low,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,1.2,F,,,L,no live,,NA
+9_0_10,9,low,0,10,3,3,3,228,300,300,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,F,,,L,no live,,NA
+9_1_0,9,low,1,0,3,3,3,8,210,300,3,300,300,3,3,3,TRUE,TRUE,0.9,NA,,,,L,no live,,NA
+9_1_1,9,low,1,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.8,NA,,,,L,no live,,NA
+9_1_2,9,low,1,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,NA,F,,,L,no live,,NA
+9_1_3,9,low,1,3,3,3,3,3,44,300,3,3,3,3,3,3,FALSE,FALSE,4,1.4,,,,L,no live,,NA
+9_1_4,9,low,1,4,3,3,3,3,3,3,3,26,72,3,3,300,FALSE,FALSE,1.3,NA,F,,,L,no live,,NA
+9_1_5,9,low,1,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.9,NA,F,,,L,no live,,NA
+9_1_6,9,low,1,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.9,NA,,,,L,no live,,NA
+9_1_7,9,low,1,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,NA,,,,L,no live,,NA
+9_1_8,9,low,1,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,no live,,NA
+9_1_9,9,low,1,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,1,,,,L,no live,,NA
+9_1_10,9,low,1,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,NA
+9_2_0,9,low,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,,,,R,no live,,rock
+9_2_1,9,low,2,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.8,NA,,,,L,no live,,loose packed sticks
+9_2_2,9,low,2,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,M,no live,,NA
+9_2_3,9,low,2,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,1.5,,,,L,no live,,NA
+9_2_4,9,low,2,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,M,no live,,NA
+9_2_5,9,low,2,5,3,3,3,3,3,3,3,300,300,3,3,81,FALSE,FALSE,1.9,NA,F,,,L,no live,,NA
+9_2_6,9,low,2,6,3,3,3,3,3,3,95,150,300,3,3,3,FALSE,FALSE,0,1.5,,,,WD,no live,,NA
+9_2_7,9,low,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.6,NA,F,,,L,no live,,NA
+9_2_8,9,low,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,,,,L,no live,,NA
+9_2_9,9,low,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,3,F,,,L,no live,,NA
+9_2_10,9,low,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,L,,,L,no live,,NA
+9_3_0,9,low,3,0,3,3,3,3,3,3,300,300,300,300,300,300,TRUE,TRUE,0.9,NA,,,,L,no live,,NA
+9_3_1,9,low,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,NA
+9_3_2,9,low,3,2,3,3,3,3,3,3,3,45,300,170,250,300,TRUE,TRUE,0.3,NA,F,,,L,no live,,NA
+9_3_3,9,low,3,3,3,3,3,3,3,300,3,60,300,3,3,3,FALSE,FALSE,1.3,1,,,,L,no live,,NA
+9_3_4,9,low,3,4,3,3,3,3,3,3,300,300,300,300,300,300,TRUE,TRUE,0.8,NA,F,,,L,no live,,NA
+9_3_5,9,low,3,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,F,,,L,no live,,NA
+9_3_6,9,low,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,1.5,,,,L,no live,,NA
+9_3_7,9,low,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,NA,F,,,L,no live,,NA
+9_3_8,9,low,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,WD,,,L,no live,,NA
+9_3_9,9,low,3,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,0.6,,,,L,no live,,NA
+9_3_10,9,low,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.8,NA,F,,,L,no live,,NA
+9_4_0,9,low,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.2,NA,F,,,L,PSME,,NA
+9_4_1,9,low,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.8,NA,,,,L,no live,,NA
+9_4_2,9,low,4,2,3,3,3,3,3,180,42,300,300,3,24,45,FALSE,FALSE,1.5,NA,,,,L,no live,,NA
+9_4_3,9,low,4,3,3,3,3,3,3,3,3,3,215,3,55,70,FALSE,FALSE,1.2,1.5,,,,L,no live,,NA
+9_4_4,9,low,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.8,NA,F,,,L,no live,,NA
+9_4_5,9,low,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.8,NA,,,,L,no live,,NA
+9_4_6,9,low,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,0.3,,,,L,no live,,NA
+9_4_7,9,low,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,G,SD,,L,no live,,NA
+9_4_8,9,low,4,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,F,,,WD,no live,,NA
+9_4_9,9,low,4,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,0.9,,,,L,no live,,NA
+9_4_10,9,low,4,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,F,,,L,no live,,loose packed sticks
+9_5_0,9,low,5,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,F,,,L,PSME,,NA
+9_5_1,9,low,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,NA,F,,,L,no live,,NA
+9_5_2,9,low,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,L,,,L,no live,,NA
+9_5_3,9,low,5,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,0.5,F,,,L,no live,,NA
+9_5_4,9,low,5,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,F,,,L,no live,,NA
+9_5_5,9,low,5,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,,,,L,no live,,NA
+9_5_6,9,low,5,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.8,1.4,,,,L,no live,,NA
+9_5_7,9,low,5,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+9_5_8,9,low,5,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,F,,,L,no live,,NA
+9_5_9,9,low,5,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,1,F,,,L,no live,,NA
+9_5_10,9,low,5,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.1,NA,F,,,L,no live,,NA
+9_6_0,9,low,6,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,PSME,,NA
+9_6_1,9,low,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,,,,L,no live,,NA
+9_6_2,9,low,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,,,,L,no live,,NA
+9_6_3,9,low,6,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,1.1,,,,B,no live,,NA
+9_6_4,9,low,6,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,F,,,L,no live,,NA
+9_6_5,9,low,6,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,no live,,NA
+9_6_6,9,low,6,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,0.9,F,,,L,no live,,NA
+9_6_7,9,low,6,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,F,,,L,no live,,NA
+9_6_8,9,low,6,8,3,3,3,60,140,180,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,NA
+9_6_9,9,low,6,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.5,WD,,,M,no live,,NA
+9_6_10,9,low,6,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,,,,L,no live,,NA
+9_7_0,9,low,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,F,,,L,PSME,,NA
+9_7_1,9,low,7,1,3,3,3,3,3,3,3,3,3,300,300,300,TRUE,TRUE,1,NA,F,,,L,no live,,NA
+9_7_2,9,low,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.1,NA,,,,B,no live,,NA
+9_7_3,9,low,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,0.5,,,,L,no live,,NA
+9_7_4,9,low,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,NA,,,,L,no live,,NA
+9_7_5,9,low,7,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,,,,L,no live,,NA
+9_7_6,9,low,7,6,3,3,3,3,3,3,3,3,3,300,300,300,TRUE,TRUE,0.2,1.5,F,,,L,no live,,NA
+9_7_7,9,low,7,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,F,,,L,no live,,NA
+9_7_8,9,low,7,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,NA,,,,L,no live,,NA
+9_7_9,9,low,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,0.5,,,,L,no live,,NA
+9_7_10,9,low,7,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,no live,,NA
+9_8_0,9,low,8,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.2,NA,,,,L,PSME,,NA
+9_8_1,9,low,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.7,NA,F,,,L,no live,,loose packed sticks
+9_8_2,9,low,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,NA,T,,,L,no live,,NA
+9_8_3,9,low,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,0.6,,,,L,no live,,NA
+9_8_4,9,low,8,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.2,NA,,,,L,no live,,NA
+9_8_5,9,low,8,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,,,,L,no live,,NA
+9_8_6,9,low,8,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,0.6,,,,B,no live,,NA
+9_8_7,9,low,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.3,NA,,,,L,no live,,NA
+9_8_8,9,low,8,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.9,NA,F,,,WD,no live,,NA
+9_8_9,9,low,8,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.5,0.5,F,,,L,no live,,NA
+9_8_10,9,low,8,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.4,NA,,,,L,no live,,NA
+9_9_0,9,low,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.2,NA,,,,L,no live,,NA
+9_9_1,9,low,9,1,3,3,3,3,3,3,300,300,300,3,3,3,FALSE,FALSE,1.8,NA,F,,,L,no live,,NA
+9_9_2,9,low,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.9,NA,F,WD,,L,no live,,NA
+9_9_3,9,low,9,3,3,3,3,3,3,3,3,3,3,14,55,100,FALSE,FALSE,3.2,0.9,,,,L,no live,,NA
+9_9_4,9,low,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,F,,,L,no live,,NA
+9_9_5,9,low,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0,NA,,,,WD,no live,,NA
+9_9_6,9,low,9,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,1.7,F,,,L,no live,,NA
+9_9_7,9,low,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.4,NA,,,,L,no live,,NA
+9_9_8,9,low,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.5,NA,,,,L,no live,,NA
+9_9_9,9,low,9,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7.3,1.1,L,,,L,no live,,loose packed sticks
+9_9_10,9,low,9,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.8,NA,,,,L,PSME,,NA
+9_10_0,9,low,10,0,3,3,3,47,59,66,15,20,23,3,3,3,FALSE,FALSE,1.8,NA,,,,L,no live,,NA
+9_10_1,9,low,10,1,3,3,3,3,3,3,5,5,5,18,56,124,FALSE,FALSE,0.3,NA,,,,L,no live,,NA
+9_10_2,9,low,10,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,,,,L,no live,,NA
+9_10_3,9,low,10,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6.2,0.5,L,,,L,no live,,loose packed sticks
+9_10_4,9,low,10,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,,,,L,no live,,NA
+9_10_5,9,low,10,5,3,55,63,36,120,300,300,300,300,45,45,45,TRUE,TRUE,0.8,NA,,,,L,no live,,NA
+9_10_6,9,low,10,6,3,3,3,3,3,3,3,3,3,5,5,5,TRUE,TRUE,1.5,1.5,F,,,L,no live,,NA
+9_10_7,9,low,10,7,3,3,3,3,3,3,3,3,3,5,92,120,FALSE,FALSE,0.4,NA,F,,,L,no live,,NA
+9_10_8,9,low,10,8,3,3,3,3,3,3,3,3,3,91,300,300,FALSE,FALSE,0,NA,,,,WD,no live,,NA
+9_10_9,9,low,10,9,3,3,3,3,3,5,5,145,168,3,17,60,FALSE,FALSE,1,2.5,F,,,L,no live,,NA
+9_10_10,9,low,10,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,NA,F,,,L,no live,,NA
+10_0_0,10,unburned,0,0,300,300,300,300,300,300,300,300,300,3,26,48,FALSE,FALSE,11,NA,G,,,L,no live,,NA
+10_0_1,10,unburned,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,no live,,NA
+10_0_2,10,unburned,0,2,300,300,300,3,40,80,240,300,300,3,3,3,FALSE,FALSE,8,NA,L,G,,WD,PIPO,,NA
+10_0_3,10,unburned,0,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,3.9,,,,L,PIPO,,NA
+10_0_4,10,unburned,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,8,NA,,,,WD,PIPO,PSME,PIPO DOMINATES
+10_0_5,10,unburned,0,5,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,10,NA,,,,L,PIPO,PSME,PIPO DOMINATES/HEAVY CANOPY
+10_0_6,10,unburned,0,6,300,300,300,300,300,300,300,300,300,51,84,300,FALSE,FALSE,9,3.7,,,,L,PIPO,,NA
+10_0_7,10,unburned,0,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,G,,,L,PIPO,,NA
+10_0_8,10,unburned,0,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PIPO,,NA
+10_0_9,10,unburned,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,2.4,G,,,L,no live,,NA
+10_0_10,10,unburned,0,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,no live,,NA
+10_1_0,10,unburned,1,0,10,38,3,3,3,3,3,250,300,3,28,300,FALSE,FALSE,6,NA,,,,L,QUGA,,NA
+10_1_1,10,unburned,1,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,no live,,NA
+10_1_2,10,unburned,1,2,3,3,40,3,3,300,300,300,300,3,3,124,FALSE,FALSE,10,NA,T,,,L,PIPO,,NA
+10_1_3,10,unburned,1,3,50,115,178,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5.5,2.4,G,,,L,PIPO,,NA
+10_1_4,10,unburned,1,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,PIPO,,NA
+10_1_5,10,unburned,1,5,3,105,200,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PIPO,,NA
+10_1_6,10,unburned,1,6,3,100,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,0.8,,,,L,PIPO,,NA
+10_1_7,10,unburned,1,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,PIPO,,NA
+10_1_8,10,unburned,1,8,3,3,10,3,3,28,3,3,3,3,3,3,FALSE,FALSE,4,NA,G,,,L,no live,,NA
+10_1_9,10,unburned,1,9,3,300,300,3,3,3,3,3,3,3,260,300,FALSE,FALSE,6,2.1,,,,L,no live,,NA
+10_1_10,10,unburned,1,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,no live,,NA
+10_2_0,10,unburned,2,0,3,20,224,3,3,15,30,43,300,200,300,300,FALSE,FALSE,6,NA,,,,L,QUGA,,NA
+10_2_1,10,unburned,2,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,no live,,NA
+10_2_2,10,unburned,2,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,no live,,NA
+10_2_3,10,unburned,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,,,,L,PIPO,,DECOMPOSED LOG
+10_2_4,10,unburned,2,4,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,12,NA,,,,L,PIPO,,NA
+10_2_5,10,unburned,2,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,PIPO,,NA
+10_2_6,10,unburned,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,0.5,G,,,L,PSME,PIPO,NA
+10_2_7,10,unburned,2,7,140,300,300,300,300,300,34,57,300,108,220,300,TRUE,FALSE,7,NA,,,,L,PSME,,NA
+10_2_8,10,unburned,2,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,no live,,NA
+10_2_9,10,unburned,2,9,3,3,3,109,300,300,3,3,3,3,45,62,FALSE,FALSE,2,2.7,,,,L,no live,,NA
+10_2_10,10,unburned,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,no live,,NA
+10_3_0,10,unburned,3,0,83,300,300,3,3,120,3,170,300,3,3,3,FALSE,FALSE,10,NA,,,,L,QUGA,,NA
+10_3_1,10,unburned,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,no live,,NA
+10_3_2,10,unburned,3,2,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,8,NA,,,,G,no live,,NA
+10_3_3,10,unburned,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,11,2.4,,,,L,PSME,,NA
+10_3_4,10,unburned,3,4,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,11,NA,,,,L,PSME,,NA
+10_3_5,10,unburned,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,WD,PSME,,DECOMPOSED LOG
+10_3_6,10,unburned,3,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.8,,,,L,PSME,,DECOMPOSED LOG
+10_3_7,10,unburned,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,PSME,,NA
+10_3_8,10,unburned,3,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+10_3_9,10,unburned,3,9,3,97,230,3,38,160,3,3,3,3,3,3,FALSE,FALSE,6,2.1,,,,L,no live,,NA
+10_3_10,10,unburned,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,no live,,NA
+10_4_0,10,unburned,4,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,G,,,L,QUGA,,NA
+10_4_1,10,unburned,4,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,no live,,NA
+10_4_2,10,unburned,4,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,no live,,NA
+10_4_3,10,unburned,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,8,1.7,,,,L,PSME,,NA
+10_4_4,10,unburned,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,,NA
+10_4_5,10,unburned,4,5,300,300,300,30,300,300,300,300,300,74,300,300,TRUE,FALSE,13,NA,,,,L,PSME,,NA
+10_4_6,10,unburned,4,6,130,300,300,300,300,300,3,180,300,3,200,230,TRUE,FALSE,13,0.7,,,,L,PSME,,NA
+10_4_7,10,unburned,4,7,240,300,300,300,300,300,3,3,25,3,77,300,FALSE,FALSE,9,NA,,,,L,PSME,,NA
+10_4_8,10,unburned,4,8,300,300,300,3,240,300,3,3,3,3,3,3,FALSE,FALSE,8,NA,G,,,L,PSME,PIPO,PSME DOMINATES
+10_4_9,10,unburned,4,9,30,134,300,63,120,144,3,3,3,3,3,3,FALSE,FALSE,8,1.1,G,,,L,PIPO,,NA
+10_4_10,10,unburned,4,10,49,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,PIPO,,NA
+10_5_0,10,unburned,5,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+10_5_1,10,unburned,5,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,no live,,NA
+10_5_2,10,unburned,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,PSME,,NA
+10_5_3,10,unburned,5,3,300,300,300,3,155,212,3,3,3,3,3,3,FALSE,FALSE,10,1.9,G,L,,G,PIPO,PSME,PSME DOMINATES
+10_5_4,10,unburned,5,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,L,PSME,,DECOMPOSED LOG
+10_5_5,10,unburned,5,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+10_5_6,10,unburned,5,6,3,300,300,3,3,15,3,36,140,3,3,3,FALSE,FALSE,11,0.5,L,,,L,PSME,,NA
+10_5_7,10,unburned,5,7,35,150,300,3,3,3,3,15,43,3,210,300,FALSE,FALSE,10,NA,,,,L,PSME,,NA
+10_5_8,10,unburned,5,8,40,126,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PIPO,,NA
+10_5_9,10,unburned,5,9,3,3,3,3,3,3,3,3,3,3,300,300,FALSE,FALSE,5,2.1,WD,,,L,PIPO,,NA
+10_5_10,10,unburned,5,10,3,3,3,3,3,3,3,3,3,3,20,146,FALSE,FALSE,8,NA,,,,L,PIPO,,NA
+10_6_0,10,unburned,6,0,3,5,5,10,30,40,3,3,3,3,3,3,FALSE,FALSE,2,NA,L,G,,WD,PSME,,NA
+10_6_1,10,unburned,6,1,126,160,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.5,NA,,,,L,PSME,,NA
+10_6_2,10,unburned,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.1,NA,,,,L,PSME,,NA
+10_6_3,10,unburned,6,3,3,67,120,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,1.6,,,,L,PSME,PIPO,PSME DOMINATES
+10_6_4,10,unburned,6,4,96,191,244,14,18,28,3,3,3,3,3,3,FALSE,FALSE,4.5,NA,,,,L,PSME,,2M FROM PSME
+10_6_5,10,unburned,6,5,3,3,3,3,3,3,109,196,300,15,25,300,TRUE,TRUE,7.3,NA,,,,L,PSME,,1M FROM PSME
+10_6_6,10,unburned,6,6,300,300,300,180,300,300,60,300,300,23,40,300,FALSE,FALSE,8.7,1,,,,L,PSME,,BASEOF PSME
+10_6_7,10,unburned,6,7,300,300,300,300,300,300,300,300,300,220,280,300,TRUE,TRUE,10.1,NA,,,,L,PSME,PIPO,PSME DOMINATES/BASE  OF PSME
+10_6_8,10,unburned,6,8,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,4.2,NA,,,,L,PIPO,,BASE OF PIPO
+10_6_9,10,unburned,6,9,195,220,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,13,1.5,WD,,,L,PIPO,,1M FROM PIPO
+10_6_10,10,unburned,6,10,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,2.6,NA,,,,L,PIPO,,UNDER PIPO
+10_7_0,10,unburned,7,0,3,3,3,3,5,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,G,,,L,no live,,NA
+10_7_1,10,unburned,7,1,3,3,3,3,10,3,3,3,3,3,3,3,FALSE,FALSE,2.7,NA,G,,,L,no live,,NA
+10_7_2,10,unburned,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.6,NA,G,,,L,PSME,,NA
+10_7_3,10,unburned,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.7,2.8,,,,L,PSME,,NA
+10_7_4,10,unburned,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.6,NA,,,,L,PSME,,2M FROM PSME
+10_7_5,10,unburned,7,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,1M FROM PSME
+10_7_6,10,unburned,7,6,300,300,300,60,300,300,3,5,10,3,10,24,FALSE,FALSE,2.6,2.4,WD,,,L,PSME,,1M FROM PSME
+10_7_7,10,unburned,7,7,120,120,240,25,28,85,10,14,50,3,3,3,FALSE,FALSE,5.5,NA,,,,L,PSME,,NA
+10_7_8,10,unburned,7,8,3,3,3,118,155,300,120,300,300,300,300,300,TRUE,TRUE,NA,NA,,,,L,PIPO,,NA
+10_7_9,10,unburned,7,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,2.3,,,,L,PIPO,,WOODY DEBRIS
+10_7_10,10,unburned,7,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,R,PIPO,,ROCK
+10_8_0,10,unburned,8,0,180,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.1,NA,,,,L,PSME,,NA
+10_8_1,10,unburned,8,1,3,10,12,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,NA,,,,L,no live,,NA
+10_8_2,10,unburned,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.7,NA,,,,L,no live,,NA
+10_8_3,10,unburned,8,3,300,300,300,3,3,10,3,3,3,3,3,3,FALSE,FALSE,5.2,1.4,G,,,L,PSME,,NA
+10_8_4,10,unburned,8,4,3,3,3,3,5,24,3,3,3,3,3,3,FALSE,FALSE,3.4,NA,,,,L,PSME,,NA
+10_8_5,10,unburned,8,5,3,3,3,3,5,24,3,3,3,3,3,3,FALSE,FALSE,4.9,NA,,,,L,PSME,,NA
+10_8_6,10,unburned,8,6,300,300,300,17,190,300,3,3,3,3,3,3,FALSE,FALSE,4,3.2,,,,L,PSME,,NA
+10_8_7,10,unburned,8,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.2,NA,,,,L,PSME,,NA
+10_8_8,10,unburned,8,8,300,300,300,300,300,300,5,50,210,3,3,3,FALSE,FALSE,1.5,NA,,,,L,PIPO,,NA
+10_8_9,10,unburned,8,9,300,300,300,120,300,300,45,50,300,3,3,10,FALSE,FALSE,6.5,0.8,,,,L,PIPO,,NA
+10_8_10,10,unburned,8,10,300,300,300,300,300,300,300,300,300,90,300,300,TRUE,TRUE,9.3,NA,,,,L,PIPO,,NA
+10_9_0,10,unburned,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.7,NA,,,,L,no live,,NA
+10_9_1,10,unburned,9,1,3,5,10,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,G,,,L,PSME,,NA
+10_9_2,10,unburned,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,,,,L,no live,,NA
+10_9_3,10,unburned,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.1,1.6,,,,L,PSME,,NA
+10_9_4,10,unburned,9,4,3,5,10,10,50,78,53,270,300,50,50,50,FALSE,FALSE,4.2,NA,,,,WD,PSME,,NA
+10_9_5,10,unburned,9,5,15,170,300,3,3,5,3,3,5,3,3,3,FALSE,FALSE,2,NA,,,,G,PSME,,NA
+10_9_6,10,unburned,9,6,54,95,106,3,3,30,3,3,3,3,3,3,FALSE,FALSE,3.9,2.3,,,,L,PSME,,NA
+10_9_7,10,unburned,9,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,PSME,,NA
+10_9_8,10,unburned,9,8,300,300,300,300,300,300,3,3,3,3,3,3,FALSE,FALSE,1.7,NA,,,,L,PIPO,,NA
+10_9_9,10,unburned,9,9,300,300,300,300,300,300,50,60,190,5,37,49,FALSE,FALSE,5,1,WD,,,L,PIPO,,NA
+10_9_10,10,unburned,9,10,229,300,300,300,300,300,300,300,300,46,300,300,TRUE,TRUE,5,NA,,,,L,PIPO,,NA
+10_10_0,10,unburned,10,0,12,15,17,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,G,,,L,PSME,,NA
+10_10_1,10,unburned,10,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.3,NA,G,,,L,PSME,,NA
+10_10_2,10,unburned,10,2,3,7,213,10,180,300,65,300,300,3,3,3,FALSE,FALSE,2.4,NA,,,,L,PSME,,NA
+10_10_3,10,unburned,10,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.2,2.1,L,G,,L,PSME,,NA
+10_10_4,10,unburned,10,4,108,127,300,10,15,22,3,3,3,3,3,3,FALSE,FALSE,6.6,NA,,,,WD,PSME,,NA
+10_10_5,10,unburned,10,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.6,NA,,,,L,PSME,,NA
+10_10_6,10,unburned,10,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.6,0.5,L,G,,L,PSME,,NA
+10_10_7,10,unburned,10,7,3,5,114,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.9,NA,G,,,L,PSME,,NA
+10_10_8,10,unburned,10,8,100,300,300,114,300,300,86,300,300,3,3,3,FALSE,FALSE,3.7,NA,,,,L,PSME,,NA
+10_10_9,10,unburned,10,9,30,300,300,25,300,300,3,3,3,3,3,3,FALSE,FALSE,6.2,3.1,,,,WD,PIPO,,NA
+10_10_10,10,unburned,10,10,300,300,300,300,300,300,56,130,300,50,120,300,TRUE,TRUE,4.5,NA,,,,L,PIPO,,NA
+11_0_0,11,unburned,0,0,3,10,300,3,300,300,3,70,84,3,3,3,FALSE,FALSE,9,NA,,,,L,PSME,PIPO,NA
+11_0_1,11,unburned,0,1,15,143,180,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,PIPO,NA
+11_0_2,11,unburned,0,2,300,300,300,3,3,98,3,3,57,3,3,300,FALSE,FALSE,10,NA,,,,D,PSME,,NA
+11_0_3,11,unburned,0,3,193,300,300,300,300,300,300,300,300,3,24,170,FALSE,FALSE,11,2.2,,,,L,PSME,,NA
+11_0_4,11,unburned,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+11_0_5,11,unburned,0,5,44,53,300,3,3,53,3,3,3,3,3,3,FALSE,FALSE,10,NA,,,,L,PSME,,NA
+11_0_6,11,unburned,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,10,3.1,G,,,L,PSME,,NA
+11_0_7,11,unburned,0,7,3,3,3,3,3,3,3,3,3,10,48,145,FALSE,FALSE,8,NA,,,,L,PSME,,NA
+11_0_8,11,unburned,0,8,27,160,234,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+11_0_9,11,unburned,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,4.6,,,,L,PSME,,NA
+11_0_10,11,unburned,0,10,300,300,300,280,300,300,300,105,120,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,NA
+11_1_0,11,unburned,1,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,,NA
+11_1_1,11,unburned,1,1,300,300,300,8,50,93,175,175,300,3,100,100,FALSE,FALSE,15,NA,,,,WD,PSME,,NA
+11_1_2,11,unburned,1,2,230,300,300,3,3,3,3,300,300,270,300,300,FALSE,FALSE,9,NA,,,,L,PSME,,NA
+11_1_3,11,unburned,1,3,300,300,300,3,3,35,3,3,44,3,3,120,FALSE,FALSE,13,2.7,,,,L,PSME,PIPO,NA
+11_1_4,11,unburned,1,4,10,97,300,58,90,300,72,300,300,3,3,3,FALSE,FALSE,9,NA,,,,L,PSME,PIPO,NA
+11_1_5,11,unburned,1,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,10,NA,,,,L,PSME,,NA
+11_1_6,11,unburned,1,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,2.5,,,,L,PSME,,NA
+11_1_7,11,unburned,1,7,3,207,300,230,248,300,3,3,3,3,3,3,FALSE,FALSE,13,NA,,,,L,PSME,,NA
+11_1_8,11,unburned,1,8,3,38,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+11_1_9,11,unburned,1,9,3,45,99,12,60,300,3,3,3,3,3,3,FALSE,FALSE,5,3.2,,,,L,PSME,,NA
+11_1_10,11,unburned,1,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+11_2_0,11,unburned,2,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,NA
+11_2_1,11,unburned,2,1,3,3,3,3,3,3,3,3,38,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+11_2_2,11,unburned,2,2,3,24,40,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,,NA
+11_2_3,11,unburned,2,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,8,2.3,,,,L,PSME,,NA
+11_2_4,11,unburned,2,4,3,37,72,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+11_2_5,11,unburned,2,5,3,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,9,NA,,,,L,PSME,,NA
+11_2_6,11,unburned,2,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,3.4,,,,L,PSME,,NA
+11_2_7,11,unburned,2,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+11_2_8,11,unburned,2,8,3,25,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,8,NA,,,,WD,PSME,,NA
+11_2_9,11,unburned,2,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,4,G,,,L,PSME,,NA
+11_2_10,11,unburned,2,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,G,,,L,PSME,,NA
+11_3_0,11,unburned,3,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.5,NA,,,,L,PSME,,NA
+11_3_1,11,unburned,3,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+11_3_2,11,unburned,3,2,3,170,255,3,41,58,3,3,66,3,3,3,FALSE,FALSE,7,NA,L,,,R,PSME,,NA
+11_3_3,11,unburned,3,3,3,3,94,3,90,124,3,3,3,3,3,3,FALSE,FALSE,9,2.8,L,,,L,PSME,,NA
+11_3_4,11,unburned,3,4,300,300,300,3,3,20,3,15,40,3,3,300,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+11_3_5,11,unburned,3,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,,NA
+11_3_6,11,unburned,3,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,10,3.6,,,,L,PSME,,NA
+11_3_7,11,unburned,3,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,NA
+11_3_8,11,unburned,3,8,46,300,300,3,3,3,260,300,300,300,300,300,TRUE,FALSE,9,NA,,,,WD,PSME,,NA
+11_3_9,11,unburned,3,9,3,90,175,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,3.2,,,,L,PSME,,NA
+11_3_10,11,unburned,3,10,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,NA
+11_4_0,11,unburned,4,0,3,3,3,3,120,300,15,143,240,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,,NA
+11_4_1,11,unburned,4,1,3,3,3,3,110,137,3,3,300,3,3,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+11_4_2,11,unburned,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,WD,PSME,,downed log
+11_4_3,11,unburned,4,3,3,189,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,1.7,,,,WD,PSME,,NA
+11_4_4,11,unburned,4,4,3,3,3,3,3,40,3,3,72,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+11_4_5,11,unburned,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+11_4_6,11,unburned,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,1.9,,,,L,PSME,,NA
+11_4_7,11,unburned,4,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,11,NA,G,,,L,PSME,,NA
+11_4_8,11,unburned,4,8,225,300,300,3,15,300,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+11_4_9,11,unburned,4,9,34,132,227,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,3.9,,,,L,no live,,NA
+11_4_10,11,unburned,4,10,3,3,3,3,3,3,3,3,3,3,15,49,TRUE,FALSE,6,NA,L,,,L,no live,,NA
+11_5_0,11,unburned,5,0,300,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,,NA
+11_5_1,11,unburned,5,1,3,3,3,3,27,300,3,3,233,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,NA
+11_5_2,11,unburned,5,2,3,3,20,3,3,3,3,3,3,3,3,3,FALSE,FALSE,11,NA,,,,L,PSME,,NA
+11_5_3,11,unburned,5,3,230,300,300,20,45,250,283,300,300,3,3,3,FALSE,FALSE,9,3.5,,,,WD,PSME,,NA
+11_5_4,11,unburned,5,4,3,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,G,,,L,PSME,,NA
+11_5_5,11,unburned,5,5,300,300,300,3,3,85,3,3,197,3,3,3,FALSE,FALSE,6,NA,WD,,,L,PSME,,NA
+11_5_6,11,unburned,5,6,3,32,81,3,3,3,3,3,20,3,3,3,FALSE,FALSE,6,2.8,,,,L,PSME,,NA
+11_5_7,11,unburned,5,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,WD,PSME,,downed log
+11_5_8,11,unburned,5,8,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,9,NA,,,,L,PSME,,lots of bark debris
+11_5_9,11,unburned,5,9,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,7,4,,,,L,no live,,NA
+11_5_10,11,unburned,5,10,3,30,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,no live,,NA
+11_6_0,11,unburned,6,0,129,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,NA,,,,L,PSME,,NA
+11_6_1,11,unburned,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.9,NA,,,,L,PSME,,NA
+11_6_2,11,unburned,6,2,65,300,300,120,120,241,5,5,26,3,3,3,FALSE,FALSE,6.5,NA,G,,,G,PSME,,grassy area
+11_6_3,11,unburned,6,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,,,,WD,PSME,,NA
+11_6_4,11,unburned,6,4,259,300,300,3,5,300,3,3,3,3,3,3,FALSE,FALSE,5.4,NA,,,,L,PSME,,NA
+11_6_5,11,unburned,6,5,300,300,300,45,48,300,3,3,3,3,3,3,FALSE,FALSE,6.9,NA,,,,L,PSME,,NA
+11_6_6,11,unburned,6,6,300,300,300,46,300,300,300,300,300,3,3,101,FALSE,FALSE,7.4,2.3,,,,L,PSME,,mostly duff
+11_6_7,11,unburned,6,7,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,5.4,NA,WD,,,L,PSME,,mostly duff
+11_6_8,11,unburned,6,8,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,8,NA,,,,L,PSME,,NA
+11_6_9,11,unburned,6,9,5,10,300,178,300,300,10,14,20,3,3,3,FALSE,FALSE,4.2,2.2,,,,L,no live,,NA
+11_6_10,11,unburned,6,10,3,6,10,20,25,37,60,175,300,300,300,300,TRUE,TRUE,3,NA,,,,L,no live,,NA
+11_7_0,11,unburned,7,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,,,,L,PSME,,NA
+11_7_1,11,unburned,7,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,G,,,L,PSME,,NA
+11_7_2,11,unburned,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.3,NA,,,,WD,PSME,,NA
+11_7_3,11,unburned,7,3,300,300,300,3,5,20,3,3,3,3,3,3,FALSE,FALSE,6,3.2,,,,WD,PSME,,NA
+11_7_4,11,unburned,7,4,105,105,180,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7.4,NA,G,,,L,PSME,,grassy area
+11_7_5,11,unburned,7,5,300,300,300,3,160,164,3,3,3,3,3,3,FALSE,FALSE,5.5,NA,,,,L,PSME,,NA
+11_7_6,11,unburned,7,6,300,300,300,300,300,300,300,300,300,60,64,300,FALSE,FALSE,11.4,3.3,,,,L,PSME,,NA
+11_7_7,11,unburned,7,7,19,28,255,300,300,300,3,3,3,3,3,3,FALSE,FALSE,3.9,NA,,,,L,PSME,,NA
+11_7_8,11,unburned,7,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,T,PSME,,base of large tree
+11_7_9,11,unburned,7,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.9,3.1,WD,,,L,PSME,,NA
+11_7_10,11,unburned,7,10,84,300,300,10,33,300,3,3,3,3,3,3,FALSE,FALSE,3.7,NA,,,,L,no live,,NA
+11_8_0,11,unburned,8,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.7,NA,,,,L,PSME,,NA
+11_8_1,11,unburned,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.9,NA,,,,L,no live,,NA
+11_8_2,11,unburned,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5.2,NA,,,,L,no live,,NA
+11_8_3,11,unburned,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.9,2.2,G,,,L,PSME,,NA
+11_8_4,11,unburned,8,4,80,160,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6.5,NA,,,,L,PSME,,NA
+11_8_5,11,unburned,8,5,8,19,74,19,19,34,3,3,3,3,3,3,FALSE,FALSE,5.8,NA,,,,L,PSME,,NA
+11_8_6,11,unburned,8,6,300,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,2.4,,,,L,PSME,,6ft downslope from PSME
+11_8_7,11,unburned,8,7,26,30,36,3,3,3,3,3,3,3,3,3,FALSE,FALSE,0.3,NA,,,,L,PSME,,2ft from PSME
+11_8_8,11,unburned,8,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+11_8_9,11,unburned,8,9,175,300,300,3,12,15,3,3,3,3,3,3,FALSE,FALSE,6,4.2,,,,L,PSME,,NA
+11_8_10,11,unburned,8,10,300,300,300,169,300,300,3,98,300,3,3,3,FALSE,FALSE,5.7,NA,L,,,L,PSME,,NA
+11_9_0,11,unburned,9,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.7,NA,,,,L,PSME,,NA
+11_9_1,11,unburned,9,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,PSME,,NA
+11_9_2,11,unburned,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.3,NA,,,,WD,PSME,,NA
+11_9_3,11,unburned,9,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.2,2.6,,,,L,PSME,,NA
+11_9_4,11,unburned,9,4,3,5,10,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,NA
+11_9_5,11,unburned,9,5,3,3,5,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.9,NA,,,,L,PSME,,NA
+11_9_6,11,unburned,9,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.6,2,,,,L,PSME,,NA
+11_9_7,11,unburned,9,7,300,300,300,300,300,300,10,10,300,3,3,3,FALSE,FALSE,11,NA,,,,L,PSME,,NA
+11_9_8,11,unburned,9,8,78,120,173,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5.1,NA,,,,L,PSME,,NA
+11_9_9,11,unburned,9,9,300,300,300,300,300,300,300,300,300,155,200,260,FALSE,FALSE,3.3,2.7,,,,L,PSME,,NA
+11_9_10,11,unburned,9,10,300,300,300,300,300,300,60,300,300,300,300,300,TRUE,TRUE,12,NA,,,,L,PSME,,NA
+11_10_0,11,unburned,10,0,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.5,3.1,,,,L,PSME,,NA
+11_10_1,11,unburned,10,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.7,3.3,,,,L,PSME,,NA
+11_10_2,11,unburned,10,2,18,18,300,20,41,48,3,3,3,3,3,3,FALSE,FALSE,4.1,3.4,,,,L,no live,,NA
+11_10_3,11,unburned,10,3,14,59,70,3,5,83,3,3,3,3,3,3,FALSE,FALSE,6.3,2.9,,,,L,PSME,,NA
+11_10_4,11,unburned,10,4,7,128,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5.1,3.8,,,,L,PSME,,NA
+11_10_5,11,unburned,10,5,247,300,300,8,8,35,6,10,13,3,10,15,FALSE,FALSE,6.3,4.3,,,,L,PSME,,NA
+11_10_6,11,unburned,10,6,30,40,120,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,2.9,,,,L,PSME,,NA
+11_10_7,11,unburned,10,7,300,300,300,300,300,270,3,10,30,3,3,5,FALSE,FALSE,6.9,3.7,L,,,L,PSME,,NA
+11_10_8,11,unburned,10,8,7,16,71,5,16,16,3,3,3,3,3,3,FALSE,FALSE,7.4,4.3,,,,L,PSME,,NA
+11_10_9,11,unburned,10,9,10,17,27,3,3,3,3,3,3,3,3,3,FALSE,FALSE,12.1,4.7,,,,WD,PSME,,mostly duff
+11_10_10,11,unburned,10,10,300,300,300,300,300,300,100,131,300,30,34,3,FALSE,FALSE,7,2.5,L,,,L,PSME,,NA
+12_0_0,12,unburned,0,0,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,8,NA,,,,L,PSME,QUGA,NA
+12_0_1,12,unburned,0,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,QUGA,NA
+12_0_2,12,unburned,0,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,no live,,NA
+12_0_3,12,unburned,0,3,3,8,15,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,4.2,L,,,L,no live,,NA
+12_0_4,12,unburned,0,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,B,no live,,NA
+12_0_5,12,unburned,0,5,3,30,141,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,QUGA,,NA
+12_0_6,12,unburned,0,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,3.1,,,,L,no live,,NA
+12_0_7,12,unburned,0,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,no live,,NA
+12_0_8,12,unburned,0,8,3,3,3,3,3,3,3,3,3,3,3,12,FALSE,FALSE,6,NA,,,,L,no live,,NA
+12_0_9,12,unburned,0,9,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,0.9,,,,L,PSME,QUGA,NA
+12_0_10,12,unburned,0,10,3,38,138,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,QUGA,NA
+12_1_0,12,unburned,1,0,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,10,NA,,,,L,PSME,QUGA,NA
+12_1_1,12,unburned,1,1,3,3,32,3,51,135,3,3,3,3,3,3,FALSE,FALSE,9,NA,,,,L,PSME,QUGA,NA
+12_1_2,12,unburned,1,2,3,12,48,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,QUGA,NA
+12_1_3,12,unburned,1,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,3.9,,,,L,no live,,NA
+12_1_4,12,unburned,1,4,3,3,3,3,10,46,3,3,3,3,3,3,FALSE,FALSE,6,NA,G,,,L,PSME,,NA
+12_1_5,12,unburned,1,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,NA
+12_1_6,12,unburned,1,6,230,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,2.3,,,,L,PSME,,NA
+12_1_7,12,unburned,1,7,3,164,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+12_1_8,12,unburned,1,8,3,117,300,3,65,106,300,300,300,300,300,300,FALSE,FALSE,7,NA,,,,L,PSME,QUGA,NA
+12_1_9,12,unburned,1,9,14,45,100,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,0.9,,,,L,PSME,QUGA,NA
+12_1_10,12,unburned,1,10,3,300,300,300,300,300,3,3,3,3,3,3,FALSE,FALSE,11,NA,,,,L,PSME,QUGA,NA
+12_2_0,12,unburned,2,0,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,9,NA,,,,L,PSME,QUGA,NA
+12_2_1,12,unburned,2,1,3,39,123,164,300,300,3,130,300,300,300,300,TRUE,TRUE,8,NA,,,,L,PSME,,NA
+12_2_2,12,unburned,2,2,3,3,54,3,3,3,3,3,41,3,3,20,FALSE,FALSE,2,NA,,,,L,PSME,,NA
+12_2_3,12,unburned,2,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,1.6,,,,L,PSME,,NA
+12_2_4,12,unburned,2,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,NA,G,,,L,PSME,,NA
+12_2_5,12,unburned,2,5,3,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+12_2_6,12,unburned,2,6,3,3,65,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,2.2,,,,L,PSME,,NA
+12_2_7,12,unburned,2,7,300,300,300,300,300,300,300,300,300,3,22,47,FALSE,FALSE,6,NA,,,,L,PSME,,NA
+12_2_8,12,unburned,2,8,3,3,3,25,300,300,300,300,300,300,300,300,TRUE,FALSE,7,NA,,,,L,PSME,PIPO,NA
+12_2_9,12,unburned,2,9,3,3,3,3,3,3,3,3,3,3,3,3,TRUE,FALSE,11,2.4,,,,L,PSME,PIPO,NA
+12_2_10,12,unburned,2,10,3,3,300,3,3,3,3,3,3,3,48,115,TRUE,FALSE,4,NA,,,,L,PSME,PIPO,NA
+12_3_0,12,unburned,3,0,58,300,300,300,300,300,70,300,300,113,300,300,TRUE,TRUE,8,NA,,,,L,PSME,,NA
+12_3_1,12,unburned,3,1,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,10,NA,,,,L,PSME,,NA
+12_3_2,12,unburned,3,2,300,300,300,3,300,300,3,300,300,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,,NA
+12_3_3,12,unburned,3,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1,2.3,,,,L,PSME,,NA
+12_3_4,12,unburned,3,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+12_3_5,12,unburned,3,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,7,NA,,,,L,PSME,,NA
+12_3_6,12,unburned,3,6,3,300,300,3,3,300,3,3,53,3,3,3,FALSE,FALSE,7,1.4,,,,L,PSME,PIPO,NA
+12_3_7,12,unburned,3,7,300,300,300,3,190,300,3,3,3,3,3,3,FALSE,FALSE,9,NA,,,,L,PSME,PIPO,NA
+12_3_8,12,unburned,3,8,3,3,60,3,20,74,3,3,252,3,3,300,TRUE,TRUE,10,NA,,,,L,PSME,PIPO,NA
+12_3_9,12,unburned,3,9,3,3,3,300,300,300,300,300,300,80,210,300,TRUE,FALSE,8,1.8,,,,L,PSME,PIPO,NA
+12_3_10,12,unburned,3,10,300,300,300,3,300,300,300,300,300,3,190,256,TRUE,TRUE,10,NA,,,,L,PSME,PIPO,NA
+12_4_0,12,unburned,4,0,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,9,NA,,,,L,PSME,,NA
+12_4_1,12,unburned,4,1,NA,174,300,300,300,300,3,40,260,300,300,300,TRUE,TRUE,10,NA,,,,L,PSME,,NA
+12_4_2,12,unburned,4,2,3,3,3,3,3,3,20,94,300,3,3,240,TRUE,TRUE,6,NA,,,,L,PSME,,NA
+12_4_3,12,unburned,4,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,3.6,,,,L,PSME,,NA
+12_4_4,12,unburned,4,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,T,PSME,,NA
+12_4_5,12,unburned,4,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+12_4_6,12,unburned,4,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.4,2,,,,L,PSME,PIPO,NA
+12_4_7,12,unburned,4,7,10,10,18,14,3,3,3,3,3,3,3,3,FALSE,FALSE,5.1,NA,,,,L,PSME,PIPO,NA
+12_4_8,12,unburned,4,8,300,300,300,300,300,300,111,216,216,35,37,159,TRUE,TRUE,8,NA,,,,L,PSME,PIPO,NA
+12_4_9,12,unburned,4,9,300,300,300,300,300,300,270,300,300,60,110,300,TRUE,TRUE,13.7,4,,,,L,PSME,PIPO,NA
+12_4_10,12,unburned,4,10,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,13,NA,,,,L,PSME,PIPO,NA
+12_5_0,12,unburned,5,0,300,300,300,300,300,300,300,300,300,3,117,250,TRUE,TRUE,11,NA,,,,L,PSME,,NA
+12_5_1,12,unburned,5,1,300,300,300,3,29,300,3,3,3,3,3,3,FALSE,FALSE,8,NA,,,,L,PSME,,NA
+12_5_2,12,unburned,5,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,no live,,NA
+12_5_3,12,unburned,5,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,2.5,,,,WD,PSME,,NA
+12_5_4,12,unburned,5,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,NA
+12_5_5,12,unburned,5,5,3,17,92,3,3,3,3,3,3,3,26,3,FALSE,FALSE,5,NA,,,,L,PSME,,NA
+12_5_6,12,unburned,5,6,300,300,300,300,300,300,260,300,300,300,300,300,FALSE,FALSE,11,2.8,,,,L,PSME,,NA
+12_5_7,12,unburned,5,7,300,300,300,3,3,3,3,102,300,3,3,128,FALSE,FALSE,7,NA,,,,L,PSME,PIPO,NA
+12_5_8,12,unburned,5,8,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,10,NA,,,,L,PSME,PIPO,NA
+12_5_9,12,unburned,5,9,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,18,4.8,,,,L,PSME,PIPO,NA
+12_5_10,12,unburned,5,10,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,16,NA,,,,L,PSME,PIPO,NA
+12_6_0,12,unburned,6,0,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,4.3,NA,,,,WD,PSME,,NA
+12_6_1,12,unburned,6,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,no live,,NA
+12_6_2,12,unburned,6,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,NA,,,,L,no live,,NA
+12_6_3,12,unburned,6,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.5,3.2,,,,L,PSME,,NA
+12_6_4,12,unburned,6,4,3,3,7,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.5,NA,,,,L,PSME,,NA
+12_6_5,12,unburned,6,5,54,85,120,300,300,300,26,72,93,30,30,53,FALSE,FALSE,5.4,NA,,,,L,PSME,,NA
+12_6_6,12,unburned,6,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.3,1.6,,,,L,PSME,PIPO,NA
+12_6_7,12,unburned,6,7,300,300,300,300,300,300,21,55,75,3,3,60,FALSE,FALSE,7,NA,,,,L,PSME,PIPO,1.5 TO 3M DOWNSLOPE OF LARGE PINE
+12_6_8,12,unburned,6,8,300,300,300,300,300,300,80,105,180,3,3,3,FALSE,FALSE,5.7,NA,,,,L,PSME,PIPO,1.5 TO 3M DOWNSLOPE OF LARGE PINE
+12_6_9,12,unburned,6,9,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,4,3,,,,L,PSME,PIPO,1.5 TO 3M DOWNSLOPE OF LARGE PINE
+12_6_10,12,unburned,6,10,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,12.4,NA,,,,L,PSME,PIPO,1.5 TO 3M DOWNSLOPE OF LARGE PINE
+12_7_0,12,unburned,7,0,54,72,188,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PSME,,NA
+12_7_1,12,unburned,7,1,154,230,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.1,NA,,,,L,no live,,NA
+12_7_2,12,unburned,7,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.5,NA,,,,L,no live,,NA
+12_7_3,12,unburned,7,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,2.1,,,,L,no live,,NA
+12_7_4,12,unburned,7,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.4,NA,,,,L,no live,,NA
+12_7_5,12,unburned,7,5,10,10,37,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.4,NA,,,,L,no live,,NA
+12_7_6,12,unburned,7,6,3,3,120,20,22,300,3,3,3,3,3,3,FALSE,FALSE,3.3,1.4,,,,L,no live,,NA
+12_7_7,12,unburned,7,7,19,73,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,6.3,NA,,,,L,PSME,,NA
+12_7_8,12,unburned,7,8,300,300,300,300,300,300,300,300,300,300,300,300,TRUE,TRUE,6.5,NA,,,,L,PSME,,NA
+12_7_9,12,unburned,7,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9.1,1.8,,,,WD,PSME,PIPO,TOO ROCKY BELOW LITTER TO SAMPLE
+12_7_10,12,unburned,7,10,240,300,300,230,300,300,230,300,300,31,47,73,FALSE,FALSE,3.6,NA,,,,L,PSME,,NA
+12_8_0,12,unburned,8,0,24,260,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.6,NA,,,,L,no live,,NA
+12_8_1,12,unburned,8,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.4,NA,,,,R,no live,,NA
+12_8_2,12,unburned,8,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3,NA,,,,L,no live,,NA
+12_8_3,12,unburned,8,3,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.7,2.8,,,,L,PSME,,NA
+12_8_4,12,unburned,8,4,28,97,135,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.6,NA,,,,L,no live,,NA
+12_8_5,12,unburned,8,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.4,NA,,,,L,no live,,NA
+12_8_6,12,unburned,8,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,0.5,,,,L,PIPO,,NA
+12_8_7,12,unburned,8,7,21,300,300,3,3,108,3,3,10,3,3,3,FALSE,FALSE,4.7,NA,,,,L,PIPO,,NA
+12_8_8,12,unburned,8,8,300,300,300,300,300,300,300,300,300,300,300,300,FALSE,FALSE,6.7,NA,,,,L,PIPO,,NA
+12_8_9,12,unburned,8,9,71,80,300,104,106,300,300,300,300,57,88,300,FALSE,FALSE,8.3,2.3,,,,L,PIPO,,NA
+12_8_10,12,unburned,8,10,300,300,300,14,14,22,10,10,10,3,4,4,FALSE,FALSE,3.3,NA,,,,L,PIPO,QUGA,NA
+12_9_0,12,unburned,9,0,3,3,12,3,3,18,3,3,3,3,3,3,FALSE,FALSE,2.1,NA,,,,L,no live,,NA
+12_9_1,12,unburned,9,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,no live,,NA
+12_9_2,12,unburned,9,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.6,NA,,,,L,PSME,,NA
+12_9_3,12,unburned,9,3,3,5,43,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5,1.7,G,,,G,PSME,,NA
+12_9_4,12,unburned,9,4,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.8,NA,,,,L,PSME,,NA
+12_9_5,12,unburned,9,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,1.7,NA,G,,,L,no live,,NA
+12_9_6,12,unburned,9,6,12,120,300,10,10,66,3,3,3,3,3,3,FALSE,FALSE,4.7,1.3,,,,L,no live,,NA
+12_9_7,12,unburned,9,7,240,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5.6,NA,,,,WD,no live,,NA
+12_9_8,12,unburned,9,8,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5.4,NA,,,,L,PIPO,,NA
+12_9_9,12,unburned,9,9,300,300,300,60,300,300,60,300,300,5,15,30,TRUE,TRUE,6.1,1.7,,,,L,PIPO,QUGA,NA
+12_9_10,12,unburned,9,10,93,300,300,48,50,300,3,3,43,3,3,3,FALSE,FALSE,7.1,NA,,,,L,PIPO,QUGA,NA
+12_10_0,12,unburned,10,0,237,278,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.3,NA,,,,WD,no live,,NA
+12_10_1,12,unburned,10,1,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.3,NA,WD,G,,L,PSME,,NA
+12_10_2,12,unburned,10,2,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2,NA,,,,L,PSME,,NA
+12_10_3,12,unburned,10,3,3,5,54,3,3,5,3,3,3,3,3,3,FALSE,FALSE,6,0.5,,,,L,PSME,,NA
+12_10_4,12,unburned,10,4,3,3,3,122,132,148,3,3,3,3,3,3,FALSE,FALSE,4.5,NA,,,,L,PSME,,NA
+12_10_5,12,unburned,10,5,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,3.4,NA,,,,L,PSME,,NA
+12_10_6,12,unburned,10,6,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,2.1,0.7,,,,WD,no live,,NA
+12_10_7,12,unburned,10,7,3,3,3,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4.3,NA,,,,L,no live,,NA
+12_10_8,12,unburned,10,8,10,35,40,3,3,3,3,3,3,3,3,3,FALSE,FALSE,4,NA,,,,L,PIPO,,NA
+12_10_9,12,unburned,10,9,300,300,300,125,300,300,60,300,300,60,86,300,TRUE,TRUE,6.3,0.6,,,,L,PIPO,,NA
+12_10_10,12,unburned,10,10,300,300,300,3,3,3,3,3,3,3,3,3,FALSE,FALSE,5.5,NA,,,,L,PIPO,,NA

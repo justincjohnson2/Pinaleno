@@ -1,0 +1,49 @@
+location_ID,burn_severity,plot_ID,x.m,y.m,soil_texture_class,sand.percent,silt.percent,clay.percent,total_organic_carbon.percent,total_nitrogen.percent,soil_texture_ID,carbon_nitrogen_ID,Notes
+1_0_0,high,1,0,0,Sandy Loam,66,30,4,2.3,0.11,STH1-0-0,TOCH1-0-0,NA
+1_0_10,high,1,0,10,Loamy Sand,74,24,2,3.3,0.18,STH1-0-10,TOCH1-0-10,NA
+1_10_0,high,1,10,0,Sandy Loam,70,28,2,2.3,0.19,STH1-10-0,TOCH1-10-0,NA
+1_10_10,high,1,10,10,Loamy Sand,74,24,2,3.3,0.18,STH1-10-10,TOCH1-10-10,NA
+2_0_0,high,2,0,0,Sandy Loam,72,24,4,2.6,0.13,STH2-0-0,TOCH2-0-0,NA
+2_0_10,high,2,0,10,Loamy Sand,76,20,4,2,0.11,STH2-0-10,TOCH2-0-10,NA
+2_NA_NA,high,2,NA,NA,Loamy Sand,76,22,2,2.5,0.15000000000000002,STH2-A,TOCH2-A,STH2-A and TOCH2-A are not necessarily from same point
+2_NA_NA,high,2,NA,NA,Sandy Loam,74,22,4,3.3,0.18,STH2-B,TOCH2-B,STH2-B and TOCH2-B are not necessarily from same point
+3_0_0,high,3,0,0,Sandy Loam,72,22,6,2.1,0.14,STH3-0-0,TOCH3-0-0,NA
+3_0_10,high,3,0,10,Loamy Sand,76,20,4,2.7,0.12000000000000001,STH3-0-10,TOCH3-0-10,NA
+3_10_0,high,3,10,0,Loamy Sand,76,20,4,2.1,0.11,STH3-10-0,TOCH3-10-0,NA
+3_10_10,high,3,10,10,Sandy Loam,70,28,2,3.8,0.28,STH3-10-10,TOCH3-10-10,NA
+4_0_0,moderate,4,0,0,Sandy Loam,72,24,4,3.8,0.28,STM4-0-0,TOCM4-0-0,NA
+4_0_10,moderate,4,0,10,Sandy Loam,72,26,2,3.2,0.24000000000000002,STM4-0-10,TOCM4-0-10,NA
+4_10_0,moderate,4,10,0,Sandy Loam,74,24,2,2.9,0.15000000000000002,STM4-10-0,TOCM4-10-0,NA
+4_10_10,moderate,4,10,10,Sandy Loam,72,24,4,2.7,0.16,STM4-10-10,TOCM4-10-10,NA
+5_0_0,moderate,5,0,0,Sandy Loam,70,26,4,1.8,0.13,STM5-0-0,TOCM5-0-0,NA
+5_0_10,moderate,5,0,10,Sandy Loam,68,28,4,3.5,0.18,STM5-0-10,TOCM5-0-10,NA
+5_10_0,moderate,5,10,0,Sandy Loam,72,24,4,2.2,0.12000000000000001,STM5-10-0,TOCM5-10-0,NA
+5_10_10,moderate,5,10,10,Sandy Loam,74,22,4,2.7,0.13,STM5-10-10,TOCM5-10-10,NA
+6_0_0,moderate,6,0,0,Sandy Loam,70,28,2,2.1,0.16,STM6-0-0,TOCM6-0-0,NA
+6_0_10,moderate,6,0,10,Loamy Sand,76,22,2,2.5,0.18,STM6-0-10,TOCM6-0-10,NA
+6_10_0,moderate,6,10,0,Sandy Loam,70,26,4,1.6,0.05,STM6-10-0,TOCM6-10-0,NA
+6_10_10,moderate,6,10,10,Sandy Loam,70,26,4,2.5,0.13,STM6-10-10,TOCM6-10-10,NA
+7_0_0,low,7,0,0,Sandy Loam,72,22,6,2.7,0.14,STL7-0-0,TOCL7-0-0,NA
+7_0_10,low,7,0,10,Sandy Loam,70,26,4,1.6,0.12000000000000001,STL7-0-10,TOCL7-0-10,NA
+7_10_0,low,7,10,0,NA,NA,NA,NA,3,0.22,NA,TOCL7-10-0,Soil texture sample not available from this location
+7_10_10,low,7,10,10,Sandy Loam,68,28,4,2.5,0.19,STL7-10-10,TOCL7-10-10,NA
+8_0_0,low,8,0,0,Sandy Loam,66,28,6,2.4,0.14,STL8-0-0,TOCL8-0-0,NA
+8_0_10,low,8,0,10,Sandy Loam,70,26,4,2.4,0.1,STL8-0-10,TOCL8-0-10,NA
+8_10_0,low,8,10,0,Sandy Loam,68,28,4,1.6,0.09,STL8-10-0,TOCL8-10-0,NA
+8_10_10,low,8,10,10,Sandy Loam,64,28,8,1.5,0.08,STL8-10-10,TOCL8-10-10,NA
+9_0_0,low,9,0,0,Sandy Loam,64,28,8,2.9,0.11,STL9-0-0,TOCL9-0-0,NA
+9_0_10,low,9,0,10,Sandy Loam,64,26,10,3.4,0.19,STL9-0-10,TOCL9-0-10,NA
+9_10_0,low,9,10,0,Sandy Loam,64,28,8,2.2,0.15000000000000002,STL9-10-0,TOCL9-10-0,NA
+9_10_10,low,9,10,10,Sandy Loam,66,26,8,2,0.11,STL9-10-10,TOCL9-10-10,NA
+10_0_0,unburned,10,0,0,Sandy Loam,72,20,8,4.7,0.3,STU10-0-0,TOCU10-0-0,NA
+10_0_10,unburned,10,0,10,Sandy Loam,70,22,8,3,0.25,STU10-0-10,TOCU10-0-10,NA
+10_10_0,unburned,10,10,0,Sandy Loam,72,20,8,5.9,0.32999999999999996,STU10-10-0,TOCU10-10-0,NA
+10_10_10,unburned,10,10,10,Sandy Loam,72,22,6,4.4,0.28,STU10-10-10,TOCU10-10-10,NA
+11_0_0,unburned,11,0,0,Sandy Loam,72,22,6,5.4,0.33999999999999997,STU11-0-0,TOCU11-0-0,NA
+11_0_10,unburned,11,0,10,Sandy Loam,72,22,6,5.1,0.3,STU11-0-10,TOCU11-0-10,NA
+11_10_0,unburned,11,10,0,Sandy Loam,68,24,8,5,0.3,STU11-10-0,TOCU11-10-0,NA
+11_10_10,unburned,11,10,10,Sandy Loam,74,20,6,5.1,0.28,STU11-10-10,TOCU11-10-10,NA
+12_0_0,unburned,12,0,0,Sandy Loam,68,24,8,5.3,0.32999999999999996,STU12-0-0,TOCU12-0-0,NA
+12_0_10,unburned,12,0,10,Sandy Loam,70,22,8,5.3,0.32,STU12-0-10,TOCU12-0-10,NA
+12_10_0,unburned,12,10,0,Sandy Loam,70,24,6,5,0.29000000000000004,STU12-10-0,TOCU12-10-0,NA
+12_10_10,unburned,12,10,10,Sandy Loam,70,22,8,7,0.43000000000000005,STU12-10-10,TOCU12-10-10,NA
