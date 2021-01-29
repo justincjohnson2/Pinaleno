@@ -21,21 +21,21 @@ soilfilename <- "raw_data/soiltexture_carbon_nitrogen_Pinalenos_2020.csv"
 wdptfilename <- "raw_data/WDPT_cover_Pinalenos_2020.csv"
 outfilename <- "processed_data/Full_Pinalenos_2020.csv"
 
-#################################################################################################################################
-#Read in bulk density data
+# ------------------------------------------------------------------------------
+# Read in bulk density data
 bd <- read_csv(bdfilename, col_types = "c----n----------")
 
-#################################################################################################################################
-#Read in MDI data
+# ------------------------------------------------------------------------------
+# Read in MDI data
 mdi <- read_csv(mdifilename, col_types = "c----nnn--------nnnn------------")
 
-#################################################################################################################################
-#Read in soil texture, total organic carbon, and total nitrogen data
+# ------------------------------------------------------------------------------
+# Read in soil texture, total organic carbon, and total nitrogen data
 soil <- read_csv(soilfilename, col_types = "c----cnnnnn--c") %>%
   rename("notes_soil"= Notes)
 
-#################################################################################################################################
-#Read in WDPT, soil moisture, litter depth, and cover data
+# ------------------------------------------------------------------------------
+# Read in WDPT, soil moisture, litter depth, and cover data
 wdpt <- read_csv(wdptfilename, col_types = "c----nnnnnnnnnnnnllnnccccccc") %>%
   mutate(LF1 = replace(LF1, is.na(LF1), ""),
          LF2 = replace(LF2, is.na(LF2), ""),
@@ -43,8 +43,8 @@ wdpt <- read_csv(wdptfilename, col_types = "c----nnnnnnnnnnnnllnnccccccc") %>%
          overstory1 = replace(overstory1, is.na(overstory1), ""),
          overstory2 = replace(overstory2, is.na(overstory2), ""))
 
-#################################################################################################################################
-#Joins cleaned data sets
+# ------------------------------------------------------------------------------
+# Joins data sets
 final <- full_join(wdpt, mdi, by="location_ID") %>%
   full_join(bd, by="location_ID") %>%
   full_join(soil, by="location_ID") %>%
@@ -56,6 +56,6 @@ final <- full_join(wdpt, mdi, by="location_ID") %>%
                                    plot_ID > 9 ~"unburned")) %>%
   select(location_ID, plot_ID, x.m, y.m, burn_severity, everything())
 
-###################################################################################################################################
-#Write csv of cleaned data.
+# ------------------------------------------------------------------------------
+# Write csv of cleaned data.
 write_csv(final,outfilename)
