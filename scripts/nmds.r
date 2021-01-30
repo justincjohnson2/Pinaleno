@@ -14,8 +14,9 @@ if(any(!check)){
   check <- sapply(pkgs.missing,require,warn.conflicts = TRUE,character.only = TRUE)
 }
 
-#Inputs
+# Inputs
 filename <- "processed_data/Full_Pinalenos_2020.csv"
+plotfilename <- "processed_data/Plot_Summary_Pinalenos_2020.csv"
 
 # ------------------------------------------------------------------------------
 # Read in full dataset
@@ -44,7 +45,7 @@ full1 <- full %>%
                                     WD_3cm_2.sec, 
                                     WD_3cm_3.sec,
                                     na.rm = TRUE))
-full$WD_4cm.hydrophobic
+
 # Calculate means/proportions for most variables
 full_means <- full1 %>%
   group_by(plot_ID) %>%
@@ -66,6 +67,7 @@ full_means <- full1 %>%
             total_organic_carbon_mean.percent = mean(total_organic_carbon.percent, na.rm = TRUE),
             total_nitrogen_mean.percent = mean(total_nitrogen.percent, na.rm = TRUE))
 
+# ------------------------------------------------------------------------------
 # Calculate proportion ground cover for each plot
 ground_cover <- full %>%
   drop_na(ground_cover) %>%
@@ -88,6 +90,7 @@ ground_cover <- full %>%
   replace(is.na(.), 0) %>%
   mutate(grd_basal.prop = grd_forb.prop + grd_graminoid.prop + grd_tree.prop)
 
+# ------------------------------------------------------------------------------
 # Calculate proportion understory canopy cover
 canopy <- full %>%
   drop_na(ground_cover) %>% # drop points where cover was not measured
@@ -131,4 +134,51 @@ canopy_join <- full_join(canopy, canopy2, by = c("plot_ID", "cover")) %>%
   replace(is.na(.), 0) %>%
   full_join(total_canopy, by = "plot_ID")
 
+# ------------------------------------------------------------------------------
 # Calculate proportion overstory cover
+overstory <- full %>%
+  drop_na(ground_cover) %>%
+  group_by(plot_ID) %>%
+  count(overstory1) %>%
+  rename(n_OV1 = n,
+         cover = overstory1)
+
+overstory2 <- full %>%
+  drop_na(ground_cover) %>%
+  group_by(plot_ID) %>%
+  count(overstory2) %>%
+  rename(n_OV2 = n,
+         cover = overstory2)
+
+overstory_total <- full %>%
+  drop_na(ground_cover) %>%
+  mutate(overstory = case_when(overstory1 != "no live" ~ TRUE,
+                               TRUE ~ FALSE)) %>%
+  group_by(plot_ID) %>%
+  summarize(over_total.prop = mean(overstory))
+
+overstory_join <- full_join(overstory, overstory2, by = c("plot_ID", "cover")) %>%
+  drop_na(cover) %>%
+  rowwise() %>%
+  mutate(total = sum(n_OV1, n_OV2, na.rm = TRUE)) %>%
+  ungroup() %>%
+  group_by(plot_ID) %>%
+  mutate(cover_prop = (total/sum(n_OV1, na.rm = TRUE)),
+         cover = recode(cover,
+                        PSME = "over_PSME.prop",
+                        PIPO = "over_PIPO.prop",
+                        QUGA = "over_QUGA.prop")) %>%
+  select(plot_ID, cover, cover_prop) %>%
+  spread(key = cover, value = cover_prop) %>%
+  replace(is.na(.), 0) %>%
+  select(-`no live`) %>%
+  full_join(overstory_total, by = "plot_ID")
+
+# ------------------------------------------------------------------------------
+# Join tables to make a plot level summary table to be used for NMDS
+plot_summary <- full_join(full_means, ground_cover, by = "plot_ID") %>%
+  full_join(canopy_join, by = "plot_ID") %>%
+  full_join(overstory_join, by = "plot_ID")
+
+# Write csv of summary table
+write_csv(plot_summary, plotfilename)
